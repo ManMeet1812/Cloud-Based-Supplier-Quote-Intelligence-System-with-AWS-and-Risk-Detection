@@ -1,0 +1,1001 @@
+quoteId,supplierName,materialName,unitPrice,quantity,totalPrice,deliveryDays,region,quoteDate,fileType,riskStatus,riskReason
+Q00522,BuildCo,Wood,90.06,203,18281.71,7,Michigan,2025-03-22,PDF,Normal,Quote is within expected range
+Q00738,NorthSteel,Copper,8525.51,102,869602.09,23,Michigan,2025-05-19,CSV,Normal,Quote is within expected range
+Q00741,BudgetSource,Copper,6038.54,144,869550.11,9,Ontario,2025-01-14,CSV,Normal,Quote is within expected range
+Q00661,BudgetSource,Aluminum,1233.13,330,406932.05,15,Ontario,2025-03-31,Excel,Normal,Quote is within expected range
+Q00412,RapidSupply,Concrete,168.94,956,161503.93,12,Quebec,2025-09-19,CSV,Normal,Quote is within expected range
+Q00679,BuildCo,Copper,10092.95,20,201858.94,11,Quebec,2025-11-19,Excel,Normal,Quote is within expected range
+Q00627,ABC Suppliers,Aluminum,1384.35,370,512209.84,8,Michigan,2025-07-18,CSV,Normal,Quote is within expected range
+Q00514,RapidSupply,Wood,71.68,190,13618.31,14,New York,2025-03-27,Excel,Normal,Quote is within expected range
+Q00860,XYZ Materials,Concrete,324.9,513,166675.48,3,New York,2026-02-06,PDF,Anomaly,Unit price is much higher than expected
+Q00137,NorthSteel,Steel,830.1,355,294685.53,14,Ontario,2025-05-25,Excel,Normal,Quote is within expected range
+Q00812,BudgetSource,Steel,893.57,592,528995.2,52,Ontario,2025-01-21,PDF,Anomaly,Delivery time is unusually long
+Q00077,NorthSteel,Steel,952.71,331,315348.2,16,Michigan,2025-11-17,PDF,Normal,Quote is within expected range
+Q00637,XYZ Materials,Aluminum,1835.0,348,638579.32,14,New York,2025-08-17,PDF,Normal,Quote is within expected range
+Q00974,XYZ Materials,Aluminum,1934.52,380,735118.27,20,Quebec,2025-09-12,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00939,BuildCo,Aluminum,2134.72,322,687380.61,10,New York,2026-02-11,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00900,ABC Suppliers,Wood,148.13,686,101616.63,8,Michigan,2025-10-24,PDF,Anomaly,Unit price is much higher than expected
+Q00281,Prime Industrial,Concrete,177.27,1020,180811.97,4,Michigan,2025-03-04,CSV,Normal,Quote is within expected range
+Q00884,BudgetSource,Concrete,189.5,748,141749.7,50,Quebec,2025-04-16,Excel,Anomaly,Delivery time is unusually long
+Q00762,XYZ Materials,Steel,1044.83,369,385541.44,41,Quebec,2025-08-31,CSV,Anomaly,Delivery time is unusually long
+Q00320,Prime Industrial,Concrete,171.74,775,133100.48,12,Michigan,2026-01-21,CSV,Normal,Quote is within expected range
+Q00550,Prime Industrial,Wood,68.93,617,42530.6,5,New York,2025-07-08,CSV,Normal,Quote is within expected range
+Q00175,ABC Suppliers,Steel,965.9,306,295565.41,6,New York,2025-03-16,PDF,Normal,Quote is within expected range
+Q00372,BuildCo,Concrete,208.49,1486,309815.39,8,Quebec,2025-10-18,CSV,Normal,Quote is within expected range
+Q00528,Maple Materials,Wood,81.16,145,11767.59,11,New York,2025-04-06,CSV,Normal,Quote is within expected range
+Q00211,BudgetSource,Steel,991.63,204,202291.84,12,New York,2025-11-18,CSV,Normal,Quote is within expected range
+Q00236,RapidSupply,Concrete,215.63,302,65119.72,8,Quebec,2025-01-15,CSV,Normal,Quote is within expected range
+Q00102,Prime Industrial,Steel,870.57,466,405687.77,8,Ontario,2025-05-04,Excel,Normal,Quote is within expected range
+Q00987,XYZ Materials,Copper,2964.24,168,497992.99,9,New York,2025-01-13,CSV,Anomaly,Unit price is unusually low
+Q00903,XYZ Materials,Wood,117.89,254,29943.93,35,Quebec,2025-10-30,Excel,Anomaly,High price and slow delivery
+Q00948,ABC Suppliers,Aluminum,1405.41,242,340109.18,52,New York,2025-05-26,PDF,Anomaly,Delivery time is unusually long
+Q00347,Prime Industrial,Concrete,156.07,1021,159344.54,4,New York,2025-11-28,PDF,Normal,Quote is within expected range
+Q00140,Maple Materials,Steel,834.37,534,445554.04,11,Ontario,2025-06-12,Excel,Normal,Quote is within expected range
+Q00622,RapidSupply,Aluminum,1951.32,361,704424.87,16,Michigan,2025-10-26,Excel,Normal,Quote is within expected range
+Q00500,ABC Suppliers,Wood,56.21,463,26027.31,6,Quebec,2025-10-22,CSV,Normal,Quote is within expected range
+Q00371,ABC Suppliers,Concrete,181.62,915,166178.04,7,Quebec,2025-10-28,PDF,Normal,Quote is within expected range
+Q00199,NorthSteel,Steel,916.99,365,334701.86,11,Michigan,2025-09-27,Excel,Normal,Quote is within expected range
+Q00688,Maple Materials,Copper,7648.01,107,818336.55,25,Quebec,2026-02-15,CSV,Normal,Quote is within expected range
+Q00585,NorthSteel,Aluminum,1588.16,359,570149.03,11,Michigan,2025-12-05,PDF,Normal,Quote is within expected range
+Q00902,NorthSteel,Wood,91.21,381,34751.66,31,Quebec,2025-11-12,CSV,Anomaly,Delivery time is unusually long
+Q00060,Maple Materials,Steel,1053.66,317,334010.21,9,New York,2025-01-15,PDF,Normal,Quote is within expected range
+Q00329,Maple Materials,Concrete,205.66,1244,255840.72,7,Michigan,2025-10-16,PDF,Normal,Quote is within expected range
+Q00097,BudgetSource,Steel,867.97,584,506895.4,9,Quebec,2025-08-11,PDF,Normal,Quote is within expected range
+Q00313,Maple Materials,Concrete,216.07,692,149521.79,3,Michigan,2025-04-06,Excel,Normal,Quote is within expected range
+Q00975,BuildCo,Aluminum,2693.14,247,665205.95,9,Michigan,2025-06-27,CSV,Anomaly,Unit price is much higher than expected
+Q00300,Prime Industrial,Concrete,202.81,1176,238508.96,5,New York,2025-12-06,CSV,Normal,Quote is within expected range
+Q00278,NorthSteel,Concrete,156.11,222,34655.55,9,Michigan,2025-02-07,Excel,Normal,Quote is within expected range
+Q00925,BudgetSource,Wood,141.16,964,136076.04,4,Michigan,2025-08-12,CSV,Anomaly,Unit price is much higher than expected
+Q00602,Maple Materials,Aluminum,1505.37,47,70752.57,12,Quebec,2025-10-13,Excel,Normal,Quote is within expected range
+Q00440,BuildCo,Wood,77.65,555,43095.18,9,Quebec,2025-09-23,Excel,Normal,Quote is within expected range
+Q00838,NorthSteel,Concrete,259.77,1127,292766.25,10,Ontario,2025-08-23,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00571,Maple Materials,Aluminum,1624.39,122,198175.03,21,Ontario,2025-03-19,PDF,Normal,Quote is within expected range
+Q00880,BudgetSource,Concrete,146.62,1048,153653.98,37,Ontario,2025-10-31,Excel,Anomaly,Delivery time is unusually long
+Q00262,NorthSteel,Concrete,190.72,539,102796.43,7,New York,2025-12-27,CSV,Normal,Quote is within expected range
+Q00579,RapidSupply,Aluminum,1647.74,195,321308.83,22,Michigan,2025-12-18,PDF,Normal,Quote is within expected range
+Q00024,XYZ Materials,Steel,786.78,536,421711.61,7,Quebec,2025-03-07,Excel,Normal,Quote is within expected range
+Q00031,Maple Materials,Steel,961.92,528,507894.75,5,New York,2025-08-05,CSV,Normal,Quote is within expected range
+Q00618,Maple Materials,Aluminum,1797.25,195,350463.99,21,Quebec,2025-05-21,CSV,Normal,Quote is within expected range
+Q00011,Prime Industrial,Steel,916.45,326,298761.44,15,Quebec,2025-08-25,CSV,Normal,Quote is within expected range
+Q00222,XYZ Materials,Steel,864.45,386,333679.44,15,New York,2025-10-14,CSV,Normal,Quote is within expected range
+Q00821,NorthSteel,Steel,281.38,159,44738.99,14,Quebec,2026-02-03,PDF,Anomaly,Unit price is unusually low
+Q00297,Maple Materials,Concrete,198.56,596,118339.04,4,Quebec,2026-02-25,Excel,Normal,Quote is within expected range
+Q00055,Maple Materials,Steel,1079.18,231,249289.92,5,Quebec,2025-05-02,PDF,Normal,Quote is within expected range
+Q00543,NorthSteel,Wood,77.88,937,72971.49,8,New York,2025-01-11,CSV,Normal,Quote is within expected range
+Q00210,BuildCo,Steel,1334.94,555,740891.42,14,Ontario,2025-04-01,Excel,Normal,Quote is within expected range
+Q00605,Prime Industrial,Aluminum,1642.57,313,514123.14,22,Ontario,2025-08-24,CSV,Normal,Quote is within expected range
+Q00693,NorthSteel,Copper,7147.36,166,1186462.35,19,Michigan,2025-10-17,CSV,Normal,Quote is within expected range
+Q00663,ABC Suppliers,Aluminum,1454.82,316,459723.76,13,Ontario,2026-02-21,Excel,Normal,Quote is within expected range
+Q00867,RapidSupply,Concrete,228.33,1250,285414.75,7,New York,2025-03-14,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00071,BudgetSource,Steel,927.86,249,231038.15,11,Ontario,2025-08-22,CSV,Normal,Quote is within expected range
+Q00544,NorthSteel,Wood,101.15,200,20230.15,7,Michigan,2025-12-23,Excel,Normal,Quote is within expected range
+Q00108,NorthSteel,Steel,921.5,282,259861.71,9,Ontario,2025-04-10,CSV,Normal,Quote is within expected range
+Q00494,Prime Industrial,Wood,65.12,663,43171.3,5,New York,2025-09-13,CSV,Normal,Quote is within expected range
+Q00591,NorthSteel,Aluminum,1559.9,155,241784.08,10,Quebec,2025-08-22,CSV,Normal,Quote is within expected range
+Q00742,XYZ Materials,Copper,8267.56,31,256294.45,19,New York,2025-11-13,PDF,Normal,Quote is within expected range
+Q00293,RapidSupply,Concrete,189.41,712,134857.45,11,Quebec,2025-07-21,Excel,Normal,Quote is within expected range
+Q00290,Maple Materials,Concrete,168.64,1242,209448.44,5,New York,2026-02-11,CSV,Normal,Quote is within expected range
+Q00653,BuildCo,Aluminum,1595.8,335,534593.1,13,Quebec,2025-04-05,PDF,Normal,Quote is within expected range
+Q00040,ABC Suppliers,Steel,988.65,211,208605.93,13,Michigan,2025-09-15,Excel,Normal,Quote is within expected range
+Q00590,BudgetSource,Aluminum,1273.46,58,73860.47,10,Quebec,2025-02-16,Excel,Normal,Quote is within expected range
+Q00308,Prime Industrial,Concrete,176.16,562,99003.68,3,Ontario,2025-12-09,Excel,Normal,Quote is within expected range
+Q00680,ABC Suppliers,Copper,8715.54,142,1237606.35,25,Quebec,2025-05-13,PDF,Normal,Quote is within expected range
+Q00067,Maple Materials,Steel,978.82,265,259386.62,14,Ontario,2025-06-05,CSV,Normal,Quote is within expected range
+Q00276,NorthSteel,Concrete,172.1,953,164010.39,3,Quebec,2026-01-28,Excel,Normal,Quote is within expected range
+Q00068,RapidSupply,Steel,1236.9,268,331489.54,16,Michigan,2025-08-15,CSV,Normal,Quote is within expected range
+Q00319,BuildCo,Concrete,203.07,608,123465.06,9,Quebec,2025-09-02,CSV,Normal,Quote is within expected range
+Q00549,Prime Industrial,Wood,78.02,133,10376.09,9,Quebec,2025-01-30,PDF,Normal,Quote is within expected range
+Q00999,BuildCo,Copper,11680.95,172,2009123.48,51,New York,2025-06-03,Excel,Anomaly,High price and slow delivery
+Q00715,NorthSteel,Copper,7531.76,58,436841.87,13,Quebec,2026-01-18,Excel,Normal,Quote is within expected range
+Q00754,Prime Industrial,Steel,1861.54,346,644092.31,14,Ontario,2025-04-04,PDF,Anomaly,Unit price is much higher than expected
+Q00328,BudgetSource,Concrete,186.71,213,39770.05,11,Ontario,2025-09-19,CSV,Normal,Quote is within expected range
+Q00383,Prime Industrial,Concrete,130.0,447,58110.97,7,Quebec,2025-12-17,CSV,Normal,Quote is within expected range
+Q00452,XYZ Materials,Wood,95.72,114,10911.62,4,Ontario,2025-10-28,PDF,Normal,Quote is within expected range
+Q00523,Maple Materials,Wood,73.14,404,29549.03,4,New York,2025-12-05,CSV,Normal,Quote is within expected range
+Q00219,ABC Suppliers,Steel,916.4,146,133793.74,11,New York,2025-02-03,CSV,Normal,Quote is within expected range
+Q00788,BuildCo,Steel,440.73,277,122083.21,5,New York,2025-01-04,CSV,Anomaly,Unit price is unusually low
+Q00437,XYZ Materials,Wood,107.22,480,51467.2,14,New York,2025-05-09,PDF,Normal,Quote is within expected range
+Q00765,BuildCo,Steel,239.62,455,109027.48,5,New York,2025-10-27,PDF,Anomaly,Unit price is unusually low
+Q00089,Prime Industrial,Steel,902.11,91,82092.05,8,Ontario,2026-02-04,Excel,Normal,Quote is within expected range
+Q00064,RapidSupply,Steel,1009.91,357,360536.58,15,New York,2025-12-06,PDF,Normal,Quote is within expected range
+Q00827,Maple Materials,Concrete,253.82,1399,355089.42,3,New York,2025-07-21,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00717,RapidSupply,Copper,9145.08,40,365803.13,22,Quebec,2026-02-03,PDF,Normal,Quote is within expected range
+Q00352,RapidSupply,Concrete,250.43,1192,298513.56,7,New York,2025-07-14,CSV,Normal,Quote is within expected range
+Q00937,XYZ Materials,Wood,91.89,806,74066.0,7,Ontario,2025-09-12,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00257,RapidSupply,Concrete,219.47,1344,294963.61,10,Quebec,2025-01-16,PDF,Normal,Quote is within expected range
+Q00636,NorthSteel,Aluminum,1163.08,291,338455.71,7,Quebec,2026-01-21,Excel,Normal,Quote is within expected range
+Q00645,NorthSteel,Aluminum,1475.47,342,504611.01,17,Michigan,2025-07-18,CSV,Normal,Quote is within expected range
+Q00555,ABC Suppliers,Wood,75.86,762,57804.83,4,Ontario,2025-08-31,PDF,Normal,Quote is within expected range
+Q00960,Prime Industrial,Aluminum,2371.28,233,552507.1,22,Quebec,2025-10-21,PDF,Anomaly,Unit price is much higher than expected
+Q00169,Maple Materials,Steel,943.6,429,404806.36,12,New York,2025-01-17,Excel,Normal,Quote is within expected range
+Q00918,XYZ Materials,Wood,81.44,808,65806.97,47,Michigan,2025-05-22,CSV,Anomaly,Delivery time is unusually long
+Q00529,NorthSteel,Wood,73.16,163,11925.33,14,Quebec,2025-05-18,Excel,Normal,Quote is within expected range
+Q00824,Maple Materials,Steel,291.24,217,63199.05,11,Michigan,2025-08-31,PDF,Anomaly,Unit price is unusually low
+Q00986,BuildCo,Copper,15498.86,38,588956.62,34,Michigan,2025-06-23,Excel,Anomaly,High price and slow delivery
+Q00817,RapidSupply,Steel,375.49,261,98004.14,15,Michigan,2025-10-05,PDF,Anomaly,Unit price is unusually low
+Q00087,BudgetSource,Steel,956.73,334,319547.16,11,New York,2025-06-22,CSV,Normal,Quote is within expected range
+Q00433,RapidSupply,Wood,79.78,691,55126.99,11,New York,2025-06-22,Excel,Normal,Quote is within expected range
+Q00185,Maple Materials,Steel,935.45,370,346116.2,15,Michigan,2026-01-09,PDF,Normal,Quote is within expected range
+Q00979,ABC Suppliers,Copper,3318.19,126,418092.19,12,Quebec,2025-06-30,CSV,Anomaly,Unit price is unusually low
+Q00535,Maple Materials,Wood,66.35,954,63293.24,9,Quebec,2025-11-18,PDF,Normal,Quote is within expected range
+Q00295,Maple Materials,Concrete,184.71,1388,256378.21,10,New York,2026-02-12,Excel,Normal,Quote is within expected range
+Q00893,Prime Industrial,Wood,115.4,877,101209.41,7,Quebec,2025-08-06,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00426,XYZ Materials,Wood,96.36,160,15417.72,14,Quebec,2026-01-20,CSV,Normal,Quote is within expected range
+Q00714,XYZ Materials,Copper,8719.31,100,871930.66,25,Quebec,2025-09-01,CSV,Normal,Quote is within expected range
+Q00261,ABC Suppliers,Concrete,154.6,892,137901.76,4,Quebec,2025-09-13,Excel,Normal,Quote is within expected range
+Q00238,BudgetSource,Concrete,176.35,262,46203.81,6,Michigan,2025-11-12,PDF,Normal,Quote is within expected range
+Q00560,NorthSteel,Wood,65.52,771,50518.63,14,New York,2025-05-22,CSV,Normal,Quote is within expected range
+Q00584,XYZ Materials,Aluminum,2190.87,98,214705.62,7,New York,2025-08-31,Excel,Normal,Quote is within expected range
+Q00446,Maple Materials,Wood,87.92,910,80008.12,8,New York,2025-08-08,CSV,Normal,Quote is within expected range
+Q00868,RapidSupply,Concrete,340.56,159,54148.34,31,Michigan,2025-01-26,PDF,Anomaly,High price and slow delivery
+Q00801,XYZ Materials,Steel,886.71,483,428282.92,53,Ontario,2025-12-10,CSV,Anomaly,Delivery time is unusually long
+Q00600,RapidSupply,Aluminum,1943.23,288,559649.54,14,Ontario,2025-12-27,Excel,Normal,Quote is within expected range
+Q00850,Prime Industrial,Concrete,195.55,783,153111.93,44,Michigan,2025-07-31,PDF,Anomaly,Delivery time is unusually long
+Q00266,Prime Industrial,Concrete,152.02,584,88780.75,3,Ontario,2025-04-13,PDF,Normal,Quote is within expected range
+Q00996,Maple Materials,Copper,12840.78,198,2542474.54,13,Quebec,2025-10-12,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00530,XYZ Materials,Wood,62.97,927,58375.64,13,Ontario,2025-12-09,CSV,Normal,Quote is within expected range
+Q00056,BuildCo,Steel,1104.58,304,335793.49,16,New York,2026-02-05,CSV,Normal,Quote is within expected range
+Q00121,NorthSteel,Steel,958.1,361,345873.34,9,Michigan,2025-03-05,CSV,Normal,Quote is within expected range
+Q00216,BuildCo,Steel,1131.97,401,453918.7,6,Ontario,2025-08-19,PDF,Normal,Quote is within expected range
+Q00026,RapidSupply,Steel,1129.49,173,195401.86,6,Michigan,2025-09-22,CSV,Normal,Quote is within expected range
+Q00073,Maple Materials,Steel,910.98,580,528366.09,13,Quebec,2025-04-01,Excel,Normal,Quote is within expected range
+Q00045,XYZ Materials,Steel,825.29,568,468765.55,10,Ontario,2025-10-03,PDF,Normal,Quote is within expected range
+Q00248,ABC Suppliers,Concrete,171.05,508,86894.11,8,New York,2025-04-14,PDF,Normal,Quote is within expected range
+Q00722,BudgetSource,Copper,6999.19,13,90989.43,19,New York,2025-12-19,PDF,Normal,Quote is within expected range
+Q00282,ABC Suppliers,Concrete,200.13,956,191326.69,5,New York,2025-07-16,Excel,Normal,Quote is within expected range
+Q00894,NorthSteel,Wood,167.44,475,79535.9,13,Michigan,2025-10-07,Excel,Anomaly,Unit price is much higher than expected
+Q00915,Prime Industrial,Wood,145.91,134,19552.45,4,New York,2025-05-09,PDF,Anomaly,Unit price is much higher than expected
+Q00811,XYZ Materials,Steel,1519.18,594,902391.27,13,New York,2025-09-06,Excel,Anomaly,Unit price is much higher than expected
+Q00245,NorthSteel,Concrete,142.31,806,114703.97,4,Ontario,2025-07-02,PDF,Normal,Quote is within expected range
+Q00823,BudgetSource,Steel,1013.7,530,537259.77,42,Quebec,2025-09-15,Excel,Anomaly,Delivery time is unusually long
+Q00322,BudgetSource,Concrete,174.5,1129,197006.09,7,New York,2025-03-23,CSV,Normal,Quote is within expected range
+Q00644,ABC Suppliers,Aluminum,1168.07,305,356262.03,14,Quebec,2026-02-11,CSV,Normal,Quote is within expected range
+Q00159,Maple Materials,Steel,834.74,424,353930.01,9,Quebec,2025-04-13,PDF,Normal,Quote is within expected range
+Q00978,BuildCo,Copper,12899.76,68,877183.64,39,New York,2025-03-29,CSV,Anomaly,High price and slow delivery
+Q00430,Maple Materials,Wood,54.58,565,30835.32,9,New York,2025-12-22,CSV,Normal,Quote is within expected range
+Q00942,BuildCo,Aluminum,2549.65,23,58641.91,9,Ontario,2025-09-07,PDF,Anomaly,Unit price is much higher than expected
+Q00463,XYZ Materials,Wood,68.59,468,32097.98,13,Michigan,2025-08-22,Excel,Normal,Quote is within expected range
+Q00310,ABC Suppliers,Concrete,169.44,1074,181979.21,6,Quebec,2025-07-28,Excel,Normal,Quote is within expected range
+Q00698,BuildCo,Copper,8666.04,33,285979.29,22,Michigan,2025-11-22,PDF,Normal,Quote is within expected range
+Q00061,ABC Suppliers,Steel,923.04,403,371985.56,10,Ontario,2025-11-02,CSV,Normal,Quote is within expected range
+Q00885,Maple Materials,Concrete,245.1,1386,339711.67,5,New York,2025-02-15,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00596,BudgetSource,Aluminum,1446.92,77,111412.78,8,Michigan,2025-11-29,PDF,Normal,Quote is within expected range
+Q00768,RapidSupply,Steel,1901.33,247,469628.51,10,New York,2026-02-17,CSV,Anomaly,Unit price is much higher than expected
+Q00650,BuildCo,Aluminum,1930.3,351,677534.55,7,New York,2025-12-13,Excel,Normal,Quote is within expected range
+Q00651,BuildCo,Aluminum,1963.52,313,614581.33,9,Ontario,2025-01-22,PDF,Normal,Quote is within expected range
+Q00866,NorthSteel,Concrete,230.87,1177,271738.19,8,Ontario,2025-01-08,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00669,RapidSupply,Aluminum,1220.71,125,152588.33,18,Quebec,2025-01-22,Excel,Normal,Quote is within expected range
+Q00299,Maple Materials,Concrete,210.01,227,47671.99,11,Michigan,2026-01-12,Excel,Normal,Quote is within expected range
+Q00690,NorthSteel,Copper,8398.61,11,92384.72,7,Michigan,2025-05-12,PDF,Normal,Quote is within expected range
+Q00315,BudgetSource,Concrete,192.73,658,126816.53,4,Quebec,2025-09-16,CSV,Normal,Quote is within expected range
+Q00311,NorthSteel,Concrete,177.0,221,39117.46,4,New York,2025-05-27,Excel,Normal,Quote is within expected range
+Q00362,BudgetSource,Concrete,188.08,1189,223623.35,3,Michigan,2025-01-09,PDF,Normal,Quote is within expected range
+Q00480,RapidSupply,Wood,109.36,339,37071.88,7,New York,2025-08-20,CSV,Normal,Quote is within expected range
+Q00111,RapidSupply,Steel,782.35,539,421688.91,6,Quebec,2025-01-27,CSV,Normal,Quote is within expected range
+Q00990,Prime Industrial,Copper,12819.71,153,1961415.02,18,Michigan,2025-06-12,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00487,BudgetSource,Wood,57.05,224,12778.62,7,Ontario,2026-02-16,PDF,Normal,Quote is within expected range
+Q00364,BuildCo,Concrete,201.07,404,81231.73,12,Ontario,2025-02-19,Excel,Normal,Quote is within expected range
+Q00255,BudgetSource,Concrete,124.45,1009,125569.16,3,Michigan,2025-03-27,Excel,Normal,Quote is within expected range
+Q00260,BuildCo,Concrete,217.71,1430,311331.44,4,New York,2025-07-23,CSV,Normal,Quote is within expected range
+Q00803,RapidSupply,Steel,2079.9,501,1042030.92,8,Michigan,2025-11-16,PDF,Anomaly,Unit price is much higher than expected
+Q00678,Prime Industrial,Copper,9697.5,15,145462.57,11,Quebec,2025-11-28,CSV,Normal,Quote is within expected range
+Q00495,NorthSteel,Wood,94.38,304,28690.52,12,Michigan,2025-03-12,CSV,Normal,Quote is within expected range
+Q00671,XYZ Materials,Aluminum,1815.37,316,573657.2,12,New York,2026-01-15,CSV,Normal,Quote is within expected range
+Q00378,XYZ Materials,Concrete,179.94,1398,251553.34,9,New York,2025-03-20,CSV,Normal,Quote is within expected range
+Q00527,BudgetSource,Wood,45.27,657,29739.44,9,New York,2025-02-16,Excel,Normal,Quote is within expected range
+Q00846,ABC Suppliers,Concrete,250.82,1169,293212.95,12,Ontario,2025-10-20,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00138,BudgetSource,Steel,792.57,545,431952.72,13,Quebec,2025-08-17,Excel,Normal,Quote is within expected range
+Q00356,NorthSteel,Concrete,145.0,571,82792.31,6,Quebec,2025-04-11,CSV,Normal,Quote is within expected range
+Q00366,BudgetSource,Concrete,160.14,714,114341.12,4,Quebec,2025-12-23,PDF,Normal,Quote is within expected range
+Q00943,NorthSteel,Aluminum,482.46,374,180441.57,15,Michigan,2025-12-22,CSV,Anomaly,Unit price is unusually low
+Q00750,BudgetSource,Copper,6710.35,84,563669.41,7,New York,2025-01-05,CSV,Normal,Quote is within expected range
+Q00949,BudgetSource,Aluminum,2021.15,322,650810.04,7,Ontario,2025-02-23,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00830,NorthSteel,Concrete,265.68,1152,306059.46,5,Michigan,2025-03-27,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00657,XYZ Materials,Aluminum,1558.83,250,389707.57,16,Quebec,2025-06-12,CSV,Normal,Quote is within expected range
+Q00200,ABC Suppliers,Steel,847.37,266,225400.41,9,Ontario,2025-04-15,CSV,Normal,Quote is within expected range
+Q00214,XYZ Materials,Steel,1025.39,569,583445.54,14,Ontario,2025-11-11,Excel,Normal,Quote is within expected range
+Q00409,BudgetSource,Concrete,170.8,1351,230750.3,4,New York,2025-11-02,CSV,Normal,Quote is within expected range
+Q00333,RapidSupply,Concrete,206.16,869,179150.16,11,Michigan,2025-08-18,CSV,Normal,Quote is within expected range
+Q00209,RapidSupply,Steel,1093.86,199,217678.05,7,Quebec,2025-05-01,PDF,Normal,Quote is within expected range
+Q00614,ABC Suppliers,Aluminum,1323.74,254,336229.81,11,Ontario,2026-01-31,CSV,Normal,Quote is within expected range
+Q00079,BuildCo,Steel,1032.74,206,212743.85,6,Quebec,2025-04-29,CSV,Normal,Quote is within expected range
+Q00030,BudgetSource,Steel,750.16,466,349574.82,6,Quebec,2026-02-06,CSV,Normal,Quote is within expected range
+Q00536,XYZ Materials,Wood,78.12,506,39527.07,8,Ontario,2025-07-18,Excel,Normal,Quote is within expected range
+Q00696,BuildCo,Copper,8376.24,124,1038653.53,12,Ontario,2026-01-18,PDF,Normal,Quote is within expected range
+Q00558,NorthSteel,Wood,70.44,107,7536.69,14,Michigan,2025-10-27,PDF,Normal,Quote is within expected range
+Q00837,BudgetSource,Concrete,88.22,340,29994.64,3,New York,2025-11-17,PDF,Anomaly,Unit price is unusually low
+Q00597,BuildCo,Aluminum,1712.15,267,457144.67,21,Ontario,2025-08-02,Excel,Normal,Quote is within expected range
+Q00166,Maple Materials,Steel,998.6,88,87876.48,12,Ontario,2025-03-13,PDF,Normal,Quote is within expected range
+Q00919,BuildCo,Wood,116.22,491,57063.76,31,Ontario,2025-05-22,PDF,Anomaly,High price and slow delivery
+Q00496,Prime Industrial,Wood,86.36,467,40331.23,11,Ontario,2025-07-15,Excel,Normal,Quote is within expected range
+Q00825,ABC Suppliers,Steel,253.21,257,65074.3,12,New York,2025-07-31,PDF,Anomaly,Unit price is unusually low
+Q00066,Maple Materials,Steel,1199.91,228,273580.39,9,Michigan,2025-12-13,Excel,Normal,Quote is within expected range
+Q00142,RapidSupply,Steel,1201.48,588,706473.17,5,Ontario,2025-08-14,PDF,Normal,Quote is within expected range
+Q00926,Maple Materials,Wood,78.12,648,50618.72,52,Michigan,2025-03-04,Excel,Anomaly,Delivery time is unusually long
+Q00828,XYZ Materials,Concrete,244.48,1400,342277.61,3,Michigan,2025-08-22,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00656,RapidSupply,Aluminum,1731.43,355,614659.13,16,New York,2025-03-07,Excel,Normal,Quote is within expected range
+Q00332,BudgetSource,Concrete,144.76,468,67745.64,9,Ontario,2025-05-27,CSV,Normal,Quote is within expected range
+Q00665,RapidSupply,Aluminum,1635.62,395,646071.4,11,Michigan,2025-04-25,Excel,Normal,Quote is within expected range
+Q00250,NorthSteel,Concrete,174.26,1442,251276.13,4,New York,2026-02-04,PDF,Normal,Quote is within expected range
+Q00908,Prime Industrial,Wood,113.07,499,56421.0,46,Michigan,2025-12-16,Excel,Anomaly,High price and slow delivery
+Q00709,NorthSteel,Copper,6872.6,106,728495.83,14,New York,2025-12-22,CSV,Normal,Quote is within expected range
+Q00306,RapidSupply,Concrete,212.53,1081,229748.12,11,Michigan,2025-12-02,CSV,Normal,Quote is within expected range
+Q00735,XYZ Materials,Copper,9601.28,128,1228963.46,11,Michigan,2025-11-11,CSV,Normal,Quote is within expected range
+Q00976,ABC Suppliers,Copper,13917.23,95,1322136.53,50,Quebec,2025-09-24,Excel,Anomaly,High price and slow delivery
+Q00050,ABC Suppliers,Steel,783.14,333,260785.56,10,Ontario,2025-11-21,CSV,Normal,Quote is within expected range
+Q00897,XYZ Materials,Wood,90.32,949,85717.0,11,New York,2025-11-10,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00003,Prime Industrial,Steel,996.27,479,477211.51,14,Ontario,2025-10-15,PDF,Normal,Quote is within expected range
+Q00545,BuildCo,Wood,40.55,892,36168.2,8,New York,2026-01-16,CSV,Normal,Quote is within expected range
+Q00351,BudgetSource,Concrete,174.92,518,90606.61,6,Quebec,2025-12-23,Excel,Normal,Quote is within expected range
+Q00905,BuildCo,Wood,111.96,888,99418.38,44,Quebec,2025-09-11,CSV,Anomaly,High price and slow delivery
+Q00537,BudgetSource,Wood,53.86,738,39751.08,10,Ontario,2026-02-07,Excel,Normal,Quote is within expected range
+Q00345,BudgetSource,Concrete,151.67,395,59910.48,3,Quebec,2025-04-26,CSV,Normal,Quote is within expected range
+Q00995,RapidSupply,Copper,14576.06,32,466433.98,15,Ontario,2025-10-30,CSV,Anomaly,Unit price is much higher than expected
+Q00482,Maple Materials,Wood,61.7,888,54789.26,8,Ontario,2025-10-02,CSV,Normal,Quote is within expected range
+Q00576,RapidSupply,Aluminum,1333.74,117,156047.29,7,Ontario,2025-06-14,Excel,Normal,Quote is within expected range
+Q00034,NorthSteel,Steel,803.79,503,404306.4,13,Michigan,2025-05-08,PDF,Normal,Quote is within expected range
+Q00032,XYZ Materials,Steel,1163.85,397,462049.42,6,Ontario,2025-07-26,Excel,Normal,Quote is within expected range
+Q00232,ABC Suppliers,Concrete,194.42,310,60270.4,11,Michigan,2025-07-10,Excel,Normal,Quote is within expected range
+Q00964,BudgetSource,Aluminum,2337.55,90,210379.31,57,Ontario,2025-08-21,CSV,Anomaly,High price and slow delivery
+Q00193,RapidSupply,Steel,1120.42,196,219602.95,11,New York,2025-01-04,PDF,Normal,Quote is within expected range
+Q00334,BuildCo,Concrete,170.46,1200,204553.05,5,New York,2025-03-02,PDF,Normal,Quote is within expected range
+Q00004,NorthSteel,Steel,958.44,482,461967.08,7,Ontario,2026-01-24,PDF,Normal,Quote is within expected range
+Q00205,NorthSteel,Steel,781.48,382,298524.29,14,Ontario,2025-07-27,PDF,Normal,Quote is within expected range
+Q00515,RapidSupply,Wood,74.28,314,23323.65,5,Michigan,2025-01-06,CSV,Normal,Quote is within expected range
+Q00800,Prime Industrial,Steel,1466.84,322,472323.97,59,Quebec,2025-05-05,PDF,Anomaly,High price and slow delivery
+Q00307,NorthSteel,Concrete,198.45,1360,269888.68,6,New York,2025-03-12,PDF,Normal,Quote is within expected range
+Q00110,BuildCo,Steel,996.74,341,339889.24,12,Michigan,2025-02-22,PDF,Normal,Quote is within expected range
+Q00431,ABC Suppliers,Wood,54.25,750,40683.98,9,Ontario,2026-01-10,CSV,Normal,Quote is within expected range
+Q00078,NorthSteel,Steel,855.72,377,322606.02,6,Quebec,2025-05-20,CSV,Normal,Quote is within expected range
+Q00085,ABC Suppliers,Steel,914.61,77,70425.23,11,Michigan,2025-10-31,Excel,Normal,Quote is within expected range
+Q00287,BuildCo,Concrete,189.04,925,174858.67,9,New York,2026-01-08,CSV,Normal,Quote is within expected range
+Q00083,Prime Industrial,Steel,1054.17,496,522867.05,11,Michigan,2025-04-23,CSV,Normal,Quote is within expected range
+Q00992,RapidSupply,Copper,13304.96,153,2035658.91,21,New York,2025-06-07,CSV,Anomaly,Unit price is much higher than expected
+Q00790,BuildCo,Steel,298.36,305,90999.16,9,New York,2025-07-07,Excel,Anomaly,Unit price is unusually low
+Q00895,BudgetSource,Wood,117.28,593,69544.22,12,New York,2025-02-27,Excel,Anomaly,Unit price is much higher than expected
+Q00399,Prime Industrial,Concrete,184.4,1048,193256.37,12,Michigan,2025-07-11,CSV,Normal,Quote is within expected range
+Q00324,BudgetSource,Concrete,200.21,1340,268286.14,11,Quebec,2025-08-21,Excel,Normal,Quote is within expected range
+Q00520,XYZ Materials,Wood,87.68,484,42438.39,5,Ontario,2025-06-25,PDF,Normal,Quote is within expected range
+Q00917,BuildCo,Wood,50.09,359,17980.73,60,Ontario,2025-12-23,PDF,Anomaly,Delivery time is unusually long
+Q00923,NorthSteel,Wood,164.72,252,41510.35,14,Michigan,2025-01-10,CSV,Anomaly,Unit price is much higher than expected
+Q00006,NorthSteel,Steel,809.69,599,485004.99,11,Ontario,2026-01-09,CSV,Normal,Quote is within expected range
+Q00732,BudgetSource,Copper,6910.47,102,704867.66,15,New York,2025-05-14,CSV,Normal,Quote is within expected range
+Q00466,Prime Industrial,Wood,75.82,492,37301.22,6,Ontario,2025-08-30,CSV,Normal,Quote is within expected range
+Q00098,BudgetSource,Steel,895.53,324,290150.51,8,Michigan,2025-08-12,Excel,Normal,Quote is within expected range
+Q00267,RapidSupply,Concrete,268.75,365,98094.2,4,New York,2025-08-28,Excel,Normal,Quote is within expected range
+Q00358,BuildCo,Concrete,181.52,1219,221272.2,11,New York,2025-03-28,PDF,Normal,Quote is within expected range
+Q00869,XYZ Materials,Concrete,262.33,973,255247.25,49,Michigan,2025-01-28,PDF,Anomaly,High price and slow delivery
+Q00799,BuildCo,Steel,1507.83,252,379973.59,48,Quebec,2025-09-04,Excel,Anomaly,High price and slow delivery
+Q00381,Maple Materials,Concrete,157.64,824,129895.1,12,Ontario,2025-01-14,PDF,Normal,Quote is within expected range
+Q00632,RapidSupply,Aluminum,2240.82,40,89632.72,17,Michigan,2025-12-30,PDF,Normal,Quote is within expected range
+Q00382,RapidSupply,Concrete,180.22,947,170667.48,4,Michigan,2025-01-07,CSV,Normal,Quote is within expected range
+Q00491,ABC Suppliers,Wood,72.96,941,68655.61,11,Quebec,2025-10-21,CSV,Normal,Quote is within expected range
+Q00119,XYZ Materials,Steel,1059.81,252,267071.06,13,Quebec,2025-05-16,Excel,Normal,Quote is within expected range
+Q00901,ABC Suppliers,Wood,115.54,769,88852.84,8,New York,2025-09-06,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00251,RapidSupply,Concrete,173.97,1000,173973.47,9,Michigan,2025-07-24,Excel,Normal,Quote is within expected range
+Q00524,Maple Materials,Wood,85.18,469,39951.36,5,Michigan,2025-03-20,PDF,Normal,Quote is within expected range
+Q00010,Prime Industrial,Steel,1106.39,123,136086.13,7,New York,2025-12-26,Excel,Normal,Quote is within expected range
+Q00197,XYZ Materials,Steel,907.6,484,439277.1,12,New York,2025-08-15,Excel,Normal,Quote is within expected range
+Q00604,NorthSteel,Aluminum,1736.1,301,522566.63,19,Ontario,2025-09-17,PDF,Normal,Quote is within expected range
+Q00082,Maple Materials,Steel,1001.23,355,355436.03,11,Michigan,2025-01-04,CSV,Normal,Quote is within expected range
+Q00784,Maple Materials,Steel,1494.74,563,841537.26,10,New York,2025-12-03,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00588,RapidSupply,Aluminum,1672.8,40,66911.95,13,Michigan,2025-06-01,PDF,Normal,Quote is within expected range
+Q00798,BudgetSource,Steel,1680.38,318,534361.01,11,Ontario,2025-10-08,CSV,Anomaly,Unit price is much higher than expected
+Q00240,Prime Industrial,Concrete,207.52,1036,214992.18,10,Michigan,2025-11-24,Excel,Normal,Quote is within expected range
+Q00291,Prime Industrial,Concrete,182.09,192,34961.49,8,Michigan,2025-09-14,PDF,Normal,Quote is within expected range
+Q00212,BudgetSource,Steel,969.1,107,103693.54,6,New York,2026-02-12,CSV,Normal,Quote is within expected range
+Q00718,ABC Suppliers,Copper,7928.66,168,1332015.22,25,Ontario,2025-09-04,CSV,Normal,Quote is within expected range
+Q00360,BuildCo,Concrete,163.66,409,66936.5,11,Quebec,2025-02-04,Excel,Normal,Quote is within expected range
+Q00450,BudgetSource,Wood,56.3,469,26402.69,6,Ontario,2025-09-28,PDF,Normal,Quote is within expected range
+Q00228,Maple Materials,Concrete,177.11,586,103784.6,12,New York,2025-12-13,Excel,Normal,Quote is within expected range
+Q00951,Maple Materials,Aluminum,711.59,186,132355.76,17,Quebec,2026-01-18,Excel,Anomaly,Unit price is unusually low
+Q00947,XYZ Materials,Aluminum,463.9,274,127109.65,8,Quebec,2025-12-17,CSV,Anomaly,Unit price is unusually low
+Q00797,XYZ Materials,Steel,268.89,453,121809.39,6,Quebec,2025-08-10,CSV,Anomaly,Unit price is unusually low
+Q00502,ABC Suppliers,Wood,112.3,245,27513.95,7,New York,2025-10-18,Excel,Normal,Quote is within expected range
+Q00465,XYZ Materials,Wood,71.23,102,7265.29,4,Quebec,2026-01-15,Excel,Normal,Quote is within expected range
+Q00363,ABC Suppliers,Concrete,191.63,135,25870.46,9,New York,2025-10-02,CSV,Normal,Quote is within expected range
+Q00469,BuildCo,Wood,71.5,147,10510.06,5,Quebec,2026-02-16,Excel,Normal,Quote is within expected range
+Q00936,ABC Suppliers,Wood,115.06,793,91243.03,5,New York,2026-02-25,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00429,Maple Materials,Wood,91.13,913,83204.53,5,Michigan,2025-02-08,Excel,Normal,Quote is within expected range
+Q00008,XYZ Materials,Steel,1090.78,346,377409.14,8,Ontario,2025-12-05,PDF,Normal,Quote is within expected range
+Q00156,ABC Suppliers,Steel,857.7,410,351655.27,8,Michigan,2025-05-27,PDF,Normal,Quote is within expected range
+Q00542,Maple Materials,Wood,58.01,807,46814.26,11,Ontario,2025-07-22,CSV,Normal,Quote is within expected range
+Q00441,XYZ Materials,Wood,84.95,589,50033.12,10,Michigan,2025-12-22,PDF,Normal,Quote is within expected range
+Q00483,BudgetSource,Wood,47.73,261,12458.58,8,New York,2025-03-03,PDF,Normal,Quote is within expected range
+Q00423,RapidSupply,Wood,81.49,242,19721.16,7,Michigan,2025-03-26,Excel,Normal,Quote is within expected range
+Q00779,ABC Suppliers,Steel,966.64,475,459151.74,34,New York,2025-10-13,Excel,Anomaly,Delivery time is unusually long
+Q00950,BudgetSource,Aluminum,2729.0,389,1061580.38,40,Ontario,2025-02-06,PDF,Anomaly,High price and slow delivery
+Q00335,Prime Industrial,Concrete,202.0,711,143619.82,11,Ontario,2026-01-23,PDF,Normal,Quote is within expected range
+Q00577,Prime Industrial,Aluminum,1681.86,179,301052.23,19,Quebec,2025-12-22,CSV,Normal,Quote is within expected range
+Q00935,BudgetSource,Wood,19.02,764,14530.78,14,Ontario,2025-05-05,Excel,Anomaly,Unit price is unusually low
+Q00568,Maple Materials,Aluminum,1478.58,319,471668.11,10,New York,2025-07-10,CSV,Normal,Quote is within expected range
+Q00595,BuildCo,Aluminum,1929.7,253,488213.3,19,Ontario,2025-07-25,CSV,Normal,Quote is within expected range
+Q00531,Prime Industrial,Wood,87.0,528,45934.14,14,Ontario,2025-07-18,Excel,Normal,Quote is within expected range
+Q00582,Maple Materials,Aluminum,1492.98,339,506119.17,8,New York,2026-01-30,Excel,Normal,Quote is within expected range
+Q00708,XYZ Materials,Copper,10181.6,97,987615.23,23,Ontario,2025-09-15,CSV,Normal,Quote is within expected range
+Q00449,NorthSteel,Wood,61.11,606,37032.6,7,Ontario,2026-02-06,PDF,Normal,Quote is within expected range
+Q00454,Maple Materials,Wood,83.43,649,54147.02,6,Michigan,2025-02-12,Excel,Normal,Quote is within expected range
+Q00229,NorthSteel,Concrete,157.47,589,92747.15,10,Michigan,2025-04-30,Excel,Normal,Quote is within expected range
+Q00353,NorthSteel,Concrete,197.6,1054,208274.29,10,New York,2025-09-20,CSV,Normal,Quote is within expected range
+Q00729,BuildCo,Copper,8483.56,171,1450689.0,17,Michigan,2025-09-13,PDF,Normal,Quote is within expected range
+Q00213,NorthSteel,Steel,1038.77,108,112187.3,9,Michigan,2025-08-20,PDF,Normal,Quote is within expected range
+Q00080,Maple Materials,Steel,770.27,527,405932.03,8,Michigan,2025-06-19,Excel,Normal,Quote is within expected range
+Q00149,Maple Materials,Steel,964.38,471,454222.06,7,Quebec,2025-05-06,Excel,Normal,Quote is within expected range
+Q00303,NorthSteel,Concrete,188.92,1101,207996.62,8,Quebec,2025-12-20,Excel,Normal,Quote is within expected range
+Q00629,Prime Industrial,Aluminum,1624.12,110,178653.25,9,Quebec,2025-05-31,CSV,Normal,Quote is within expected range
+Q00778,XYZ Materials,Steel,1733.22,553,958473.4,15,Ontario,2025-04-17,Excel,Anomaly,Unit price is much higher than expected
+Q00507,RapidSupply,Wood,72.44,778,56357.51,5,Ontario,2025-07-11,Excel,Normal,Quote is within expected range
+Q00343,BuildCo,Concrete,221.51,196,43415.19,9,Michigan,2025-10-12,CSV,Normal,Quote is within expected range
+Q00486,ABC Suppliers,Wood,52.91,866,45816.69,5,Michigan,2025-08-20,Excel,Normal,Quote is within expected range
+Q00712,Prime Industrial,Copper,8549.52,142,1214031.45,15,New York,2025-07-31,CSV,Normal,Quote is within expected range
+Q00134,NorthSteel,Steel,951.73,533,507274.17,13,New York,2025-08-01,CSV,Normal,Quote is within expected range
+Q00704,XYZ Materials,Copper,7625.53,100,762553.17,19,New York,2026-02-04,CSV,Normal,Quote is within expected range
+Q00312,Prime Industrial,Concrete,208.88,460,96085.83,3,Ontario,2025-03-31,CSV,Normal,Quote is within expected range
+Q00723,XYZ Materials,Copper,7908.44,76,601041.73,15,New York,2025-07-05,Excel,Normal,Quote is within expected range
+Q00630,BuildCo,Aluminum,1873.34,81,151740.69,20,Quebec,2026-01-12,Excel,Normal,Quote is within expected range
+Q00001,XYZ Materials,Steel,993.24,300,297972.28,16,Ontario,2026-01-15,CSV,Normal,Quote is within expected range
+Q00317,ABC Suppliers,Concrete,189.68,1262,239369.93,6,New York,2026-02-09,CSV,Normal,Quote is within expected range
+Q00707,BudgetSource,Copper,7018.93,76,533438.34,23,Michigan,2025-10-22,PDF,Normal,Quote is within expected range
+Q00548,NorthSteel,Wood,65.49,1000,65489.06,6,Michigan,2025-03-11,Excel,Normal,Quote is within expected range
+Q00873,Maple Materials,Concrete,178.14,776,138235.99,60,Quebec,2025-12-25,Excel,Anomaly,Delivery time is unusually long
+Q00533,BuildCo,Wood,80.52,277,22304.38,6,Ontario,2026-01-23,CSV,Normal,Quote is within expected range
+Q00478,BuildCo,Wood,82.78,681,56374.4,14,Michigan,2025-02-08,Excel,Normal,Quote is within expected range
+Q00405,RapidSupply,Concrete,195.62,929,181731.78,5,Michigan,2025-08-25,PDF,Normal,Quote is within expected range
+Q00173,Prime Industrial,Steel,899.14,260,233777.47,13,Quebec,2026-02-07,Excel,Normal,Quote is within expected range
+Q00126,XYZ Materials,Steel,1161.07,391,453979.63,6,Michigan,2025-06-28,CSV,Normal,Quote is within expected range
+Q00395,Maple Materials,Concrete,202.93,1199,243315.02,4,Ontario,2026-02-09,CSV,Normal,Quote is within expected range
+Q00421,Prime Industrial,Wood,108.37,369,39988.66,5,New York,2025-01-17,CSV,Normal,Quote is within expected range
+Q00553,NorthSteel,Wood,92.71,266,24661.96,7,Ontario,2025-07-17,PDF,Normal,Quote is within expected range
+Q00904,NorthSteel,Wood,90.99,970,88262.93,5,Quebec,2025-09-06,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00091,XYZ Materials,Steel,977.9,312,305104.88,7,Quebec,2025-08-27,Excel,Normal,Quote is within expected range
+Q00940,NorthSteel,Aluminum,1370.19,106,145239.64,41,Quebec,2026-01-23,CSV,Anomaly,Delivery time is unusually long
+Q00182,RapidSupply,Steel,1024.13,351,359469.43,14,Michigan,2025-11-02,Excel,Normal,Quote is within expected range
+Q00275,RapidSupply,Concrete,175.4,193,33852.83,12,Ontario,2025-01-15,PDF,Normal,Quote is within expected range
+Q00896,NorthSteel,Wood,97.36,772,75159.56,14,Michigan,2025-09-22,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00070,NorthSteel,Steel,806.44,200,161288.94,8,Quebec,2026-02-17,PDF,Normal,Quote is within expected range
+Q00292,BudgetSource,Concrete,141.34,1155,163250.12,12,Michigan,2025-03-18,Excel,Normal,Quote is within expected range
+Q00132,Prime Industrial,Steel,948.38,64,60696.08,6,Quebec,2025-06-09,Excel,Normal,Quote is within expected range
+Q00301,BudgetSource,Concrete,151.62,1484,225004.52,7,New York,2025-10-07,CSV,Normal,Quote is within expected range
+Q00425,NorthSteel,Wood,83.96,978,82110.79,14,New York,2025-10-21,CSV,Normal,Quote is within expected range
+Q00327,Prime Industrial,Concrete,191.06,1165,222589.74,6,Quebec,2025-03-26,CSV,Normal,Quote is within expected range
+Q00145,Maple Materials,Steel,1065.95,549,585204.9,5,New York,2025-11-17,Excel,Normal,Quote is within expected range
+Q00424,ABC Suppliers,Wood,92.3,711,65623.42,9,New York,2025-09-30,CSV,Normal,Quote is within expected range
+Q00581,Prime Industrial,Aluminum,1735.13,106,183923.54,8,Ontario,2025-10-29,Excel,Normal,Quote is within expected range
+Q00136,XYZ Materials,Steel,1129.64,398,449597.42,13,New York,2026-01-31,CSV,Normal,Quote is within expected range
+Q00451,Maple Materials,Wood,75.22,799,60103.86,11,Michigan,2025-07-07,Excel,Normal,Quote is within expected range
+Q00165,RapidSupply,Steel,1165.47,525,611872.67,9,Quebec,2025-11-28,PDF,Normal,Quote is within expected range
+Q00029,Prime Industrial,Steel,989.69,269,266226.16,16,New York,2025-12-09,CSV,Normal,Quote is within expected range
+Q00774,Maple Materials,Steel,1372.95,489,671374.95,10,Quebec,2025-09-26,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00194,XYZ Materials,Steel,815.6,81,66063.76,13,Quebec,2026-01-15,Excel,Normal,Quote is within expected range
+Q00389,Maple Materials,Concrete,208.35,1396,290853.99,12,New York,2025-05-30,Excel,Normal,Quote is within expected range
+Q00853,ABC Suppliers,Concrete,341.95,792,270820.92,55,Quebec,2025-04-10,CSV,Anomaly,High price and slow delivery
+Q00170,Prime Industrial,Steel,882.72,426,376038.05,15,New York,2025-02-20,Excel,Normal,Quote is within expected range
+Q00706,NorthSteel,Copper,8642.18,67,579025.75,13,New York,2025-06-27,CSV,Normal,Quote is within expected range
+Q00141,Maple Materials,Steel,1019.16,179,182430.34,14,Quebec,2025-09-11,PDF,Normal,Quote is within expected range
+Q00174,Prime Industrial,Steel,933.37,386,360279.74,14,Quebec,2026-02-21,PDF,Normal,Quote is within expected range
+Q00007,XYZ Materials,Steel,1195.89,420,502274.56,16,New York,2025-11-18,Excel,Normal,Quote is within expected range
+Q00746,BuildCo,Copper,8664.63,172,1490316.12,20,Michigan,2025-11-20,Excel,Normal,Quote is within expected range
+Q00479,BuildCo,Wood,121.3,971,117784.48,10,Quebec,2025-05-30,CSV,Normal,Quote is within expected range
+Q00074,Prime Industrial,Steel,1082.4,525,568258.47,13,Ontario,2025-08-22,PDF,Normal,Quote is within expected range
+Q00911,NorthSteel,Wood,124.07,921,114269.05,13,New York,2025-05-19,CSV,Anomaly,Unit price is much higher than expected
+Q00814,RapidSupply,Steel,1853.1,332,615229.93,11,New York,2025-05-01,Excel,Anomaly,Unit price is much higher than expected
+Q00239,BuildCo,Concrete,176.82,586,103617.81,3,Michigan,2025-02-26,CSV,Normal,Quote is within expected range
+Q00146,XYZ Materials,Steel,1070.84,344,368370.14,16,Quebec,2025-11-20,Excel,Normal,Quote is within expected range
+Q00793,Maple Materials,Steel,941.35,392,369011.01,58,Ontario,2026-02-04,PDF,Anomaly,Delivery time is unusually long
+Q00235,Maple Materials,Concrete,240.25,865,207815.41,4,Ontario,2025-07-22,Excel,Normal,Quote is within expected range
+Q00221,BuildCo,Steel,1218.34,451,549471.78,16,New York,2025-06-08,Excel,Normal,Quote is within expected range
+Q00924,Maple Materials,Wood,127.11,437,55546.55,46,New York,2025-03-19,Excel,Anomaly,High price and slow delivery
+Q00501,BuildCo,Wood,95.52,925,88354.91,9,Quebec,2025-10-31,CSV,Normal,Quote is within expected range
+Q00133,Prime Industrial,Steel,888.77,207,183974.87,16,Ontario,2025-08-25,PDF,Normal,Quote is within expected range
+Q00991,Maple Materials,Copper,12904.33,104,1342050.24,39,Quebec,2026-01-02,CSV,Anomaly,High price and slow delivery
+Q00775,Maple Materials,Steel,1410.77,585,825300.87,7,New York,2025-02-26,PDF,Anomaly,Unit price is much higher than expected
+Q00186,NorthSteel,Steel,916.6,535,490381.13,6,New York,2025-03-20,Excel,Normal,Quote is within expected range
+Q00042,Maple Materials,Steel,1059.53,90,95357.89,11,Ontario,2025-10-19,PDF,Normal,Quote is within expected range
+Q00697,XYZ Materials,Copper,8868.87,96,851411.95,8,Quebec,2025-09-18,CSV,Normal,Quote is within expected range
+Q00109,ABC Suppliers,Steel,945.98,105,99328.2,16,Quebec,2025-05-21,PDF,Normal,Quote is within expected range
+Q00589,BudgetSource,Aluminum,1665.11,26,43292.91,10,New York,2025-05-01,PDF,Normal,Quote is within expected range
+Q00057,XYZ Materials,Steel,889.8,277,246475.88,12,Michigan,2025-01-20,CSV,Normal,Quote is within expected range
+Q00406,Maple Materials,Concrete,196.15,1357,266180.56,10,Michigan,2025-01-15,Excel,Normal,Quote is within expected range
+Q00443,Maple Materials,Wood,46.28,246,11385.69,13,Quebec,2025-11-25,Excel,Normal,Quote is within expected range
+Q00758,Maple Materials,Steel,1679.75,430,722293.72,31,New York,2026-02-07,CSV,Anomaly,High price and slow delivery
+Q00998,NorthSteel,Copper,2105.02,128,269442.82,7,Michigan,2025-10-14,Excel,Anomaly,Unit price is unusually low
+Q00025,NorthSteel,Steel,889.24,255,226756.69,11,Michigan,2025-04-19,Excel,Normal,Quote is within expected range
+Q00468,NorthSteel,Wood,87.02,222,19317.38,4,Ontario,2025-10-20,CSV,Normal,Quote is within expected range
+Q00540,Maple Materials,Wood,71.95,597,42953.83,11,New York,2025-07-16,Excel,Normal,Quote is within expected range
+Q00532,BudgetSource,Wood,45.76,180,8236.19,4,Quebec,2025-09-01,CSV,Normal,Quote is within expected range
+Q00619,BuildCo,Aluminum,1791.42,378,677155.9,16,Quebec,2025-07-31,Excel,Normal,Quote is within expected range
+Q00695,BudgetSource,Copper,8232.88,98,806822.23,19,New York,2025-06-07,Excel,Normal,Quote is within expected range
+Q00927,NorthSteel,Wood,130.67,762,99571.55,9,Michigan,2025-01-29,Excel,Anomaly,Unit price is much higher than expected
+Q00339,ABC Suppliers,Concrete,175.11,923,161627.26,11,Quebec,2026-01-15,PDF,Normal,Quote is within expected range
+Q00052,ABC Suppliers,Steel,889.49,202,179676.8,10,Ontario,2025-02-08,Excel,Normal,Quote is within expected range
+Q00508,RapidSupply,Wood,73.66,261,19224.9,10,New York,2025-06-15,PDF,Normal,Quote is within expected range
+Q00517,BudgetSource,Wood,73.88,604,44624.5,9,Michigan,2025-03-27,CSV,Normal,Quote is within expected range
+Q00921,Maple Materials,Wood,28.89,211,6095.13,10,Quebec,2025-11-27,CSV,Anomaly,Unit price is unusually low
+Q00782,Prime Industrial,Steel,1959.88,475,930940.81,14,Quebec,2025-10-13,Excel,Anomaly,Unit price is much higher than expected
+Q00265,NorthSteel,Concrete,159.38,1406,224087.45,8,Quebec,2025-12-31,Excel,Normal,Quote is within expected range
+Q00818,Prime Industrial,Steel,339.64,586,199029.2,7,Quebec,2025-06-08,Excel,Anomaly,Unit price is unusually low
+Q00711,XYZ Materials,Copper,8412.88,172,1447015.6,14,New York,2025-02-04,CSV,Normal,Quote is within expected range
+Q00683,BuildCo,Copper,8166.08,185,1510724.07,21,New York,2025-03-27,Excel,Normal,Quote is within expected range
+Q00833,Prime Industrial,Concrete,77.33,763,59000.4,4,Michigan,2025-02-16,CSV,Anomaly,Unit price is unusually low
+Q00519,BuildCo,Wood,81.82,401,32808.5,8,Michigan,2025-02-07,PDF,Normal,Quote is within expected range
+Q00448,ABC Suppliers,Wood,60.85,721,43875.26,10,New York,2025-04-16,Excel,Normal,Quote is within expected range
+Q00019,XYZ Materials,Steel,882.45,514,453577.27,16,New York,2025-08-11,PDF,Normal,Quote is within expected range
+Q00716,Prime Industrial,Copper,8776.25,68,596785.16,14,Quebec,2025-05-16,PDF,Normal,Quote is within expected range
+Q00484,ABC Suppliers,Wood,76.34,193,14734.36,9,Quebec,2025-06-17,PDF,Normal,Quote is within expected range
+Q00569,BudgetSource,Aluminum,1166.58,317,369805.26,9,Ontario,2025-11-21,Excel,Normal,Quote is within expected range
+Q00434,RapidSupply,Wood,93.32,741,69150.04,11,Ontario,2025-01-24,PDF,Normal,Quote is within expected range
+Q00368,ABC Suppliers,Concrete,167.3,988,165292.73,8,Quebec,2025-02-12,CSV,Normal,Quote is within expected range
+Q00084,RapidSupply,Steel,987.06,528,521166.62,14,Michigan,2026-01-06,PDF,Normal,Quote is within expected range
+Q00062,Maple Materials,Steel,990.32,244,241636.89,16,Ontario,2025-07-17,Excel,Normal,Quote is within expected range
+Q00639,ABC Suppliers,Aluminum,1406.42,248,348790.99,16,New York,2025-09-21,Excel,Normal,Quote is within expected range
+Q00273,Prime Industrial,Concrete,216.2,720,155663.79,4,New York,2025-03-06,Excel,Normal,Quote is within expected range
+Q00286,BudgetSource,Concrete,123.32,116,14304.72,9,Michigan,2025-05-27,Excel,Normal,Quote is within expected range
+Q00361,BudgetSource,Concrete,170.53,1406,239765.32,12,New York,2025-01-31,Excel,Normal,Quote is within expected range
+Q00355,BuildCo,Concrete,185.93,1296,240963.86,9,Ontario,2025-05-14,Excel,Normal,Quote is within expected range
+Q00457,XYZ Materials,Wood,79.92,847,67695.98,7,New York,2025-12-24,CSV,Normal,Quote is within expected range
+Q00279,BudgetSource,Concrete,156.36,1342,209837.16,8,Michigan,2025-04-15,CSV,Normal,Quote is within expected range
+Q00013,Maple Materials,Steel,988.02,372,367542.79,12,New York,2025-02-03,PDF,Normal,Quote is within expected range
+Q00183,Maple Materials,Steel,882.42,167,147364.04,15,Ontario,2026-02-11,Excel,Normal,Quote is within expected range
+Q00369,XYZ Materials,Concrete,177.49,1260,223635.76,3,Ontario,2025-04-28,PDF,Normal,Quote is within expected range
+Q00882,Maple Materials,Concrete,274.04,1452,397901.36,5,New York,2025-09-11,Excel,Anomaly,Unit price is much higher than expected
+Q00616,BudgetSource,Aluminum,1532.19,108,165476.96,11,Quebec,2025-12-21,Excel,Normal,Quote is within expected range
+Q00224,Prime Industrial,Steel,819.54,246,201606.62,7,New York,2026-01-28,CSV,Normal,Quote is within expected range
+Q00573,RapidSupply,Aluminum,1817.79,160,290846.75,12,Ontario,2025-01-03,CSV,Normal,Quote is within expected range
+Q00971,RapidSupply,Aluminum,2220.9,315,699585.03,16,New York,2025-08-20,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00654,XYZ Materials,Aluminum,1505.65,47,70765.39,21,Quebec,2025-12-10,Excel,Normal,Quote is within expected range
+Q00546,Maple Materials,Wood,66.66,316,21064.95,10,Ontario,2025-04-07,CSV,Normal,Quote is within expected range
+Q00583,XYZ Materials,Aluminum,1724.64,79,136246.88,19,Ontario,2025-01-25,Excel,Normal,Quote is within expected range
+Q00634,Prime Industrial,Aluminum,1485.78,278,413047.15,19,Quebec,2025-09-24,PDF,Normal,Quote is within expected range
+Q00177,BuildCo,Steel,1001.24,481,481595.66,16,New York,2025-01-27,PDF,Normal,Quote is within expected range
+Q00666,BudgetSource,Aluminum,1441.56,277,399311.15,14,Ontario,2025-07-23,CSV,Normal,Quote is within expected range
+Q00674,BudgetSource,Aluminum,1470.82,276,405946.62,21,Michigan,2025-11-06,PDF,Normal,Quote is within expected range
+Q00586,Maple Materials,Aluminum,1632.97,336,548679.01,10,Ontario,2025-09-19,Excel,Normal,Quote is within expected range
+Q00874,BudgetSource,Concrete,195.52,331,64716.06,61,Ontario,2025-02-03,CSV,Anomaly,Delivery time is unusually long
+Q00394,Maple Materials,Concrete,221.76,1324,293616.41,9,Michigan,2025-02-07,CSV,Normal,Quote is within expected range
+Q00164,RapidSupply,Steel,959.5,532,510456.37,13,Ontario,2025-12-12,PDF,Normal,Quote is within expected range
+Q00249,NorthSteel,Concrete,206.49,1069,220734.87,6,Michigan,2026-02-22,Excel,Normal,Quote is within expected range
+Q00635,XYZ Materials,Aluminum,1423.7,359,511108.68,18,New York,2025-04-24,PDF,Normal,Quote is within expected range
+Q00886,NorthSteel,Concrete,362.28,208,75354.86,8,Ontario,2025-07-09,Excel,Anomaly,Unit price is much higher than expected
+Q00670,Maple Materials,Aluminum,2000.8,40,80032.17,17,Michigan,2025-08-21,PDF,Normal,Quote is within expected range
+Q00376,BudgetSource,Concrete,142.78,868,123928.71,12,Quebec,2025-07-02,Excel,Normal,Quote is within expected range
+Q00413,Maple Materials,Concrete,142.4,1401,199496.75,5,Michigan,2025-04-06,CSV,Normal,Quote is within expected range
+Q00075,RapidSupply,Steel,815.03,566,461309.21,13,Michigan,2025-11-10,Excel,Normal,Quote is within expected range
+Q00114,Prime Industrial,Steel,1224.09,354,433329.32,11,Michigan,2025-08-19,CSV,Normal,Quote is within expected range
+Q00599,BudgetSource,Aluminum,1315.29,245,322246.74,15,Michigan,2025-02-27,CSV,Normal,Quote is within expected range
+Q00962,XYZ Materials,Aluminum,453.08,228,103303.33,16,Ontario,2025-12-21,Excel,Anomaly,Unit price is unusually low
+Q00391,Prime Industrial,Concrete,166.67,155,25833.35,10,Quebec,2025-12-16,Excel,Normal,Quote is within expected range
+Q00105,RapidSupply,Steel,1020.17,388,395825.47,12,Michigan,2026-01-17,Excel,Normal,Quote is within expected range
+Q00115,NorthSteel,Steel,956.32,151,144403.73,8,Ontario,2025-11-09,Excel,Normal,Quote is within expected range
+Q00418,NorthSteel,Wood,70.82,650,46035.71,11,Ontario,2025-05-21,PDF,Normal,Quote is within expected range
+Q00526,NorthSteel,Wood,47.9,415,19878.37,11,Ontario,2025-08-31,PDF,Normal,Quote is within expected range
+Q00458,ABC Suppliers,Wood,56.43,218,12301.59,13,Quebec,2025-02-14,CSV,Normal,Quote is within expected range
+Q00410,RapidSupply,Concrete,236.6,453,107180.43,7,New York,2025-08-23,Excel,Normal,Quote is within expected range
+Q00093,Maple Materials,Steel,925.55,127,117544.66,15,Michigan,2026-01-02,PDF,Normal,Quote is within expected range
+Q00931,ABC Suppliers,Wood,99.23,914,90697.98,12,Quebec,2025-09-08,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00090,Prime Industrial,Steel,1040.82,294,306002.5,15,Ontario,2025-11-15,PDF,Normal,Quote is within expected range
+Q00337,Prime Industrial,Concrete,153.77,958,147311.41,3,Ontario,2025-01-17,Excel,Normal,Quote is within expected range
+Q00989,Prime Industrial,Copper,18291.51,124,2268146.89,19,Ontario,2025-02-12,Excel,Anomaly,Unit price is much higher than expected
+Q00922,Prime Industrial,Wood,110.84,365,40457.2,5,Ontario,2025-08-15,Excel,Anomaly,Unit price is much higher than expected
+Q00934,BuildCo,Wood,27.92,853,23813.01,4,Quebec,2025-02-06,PDF,Anomaly,Unit price is unusually low
+Q00606,BudgetSource,Aluminum,1654.68,354,585756.33,19,New York,2025-03-02,CSV,Normal,Quote is within expected range
+Q00594,RapidSupply,Aluminum,1861.14,395,735150.13,17,Michigan,2025-11-15,CSV,Normal,Quote is within expected range
+Q00612,XYZ Materials,Aluminum,1761.84,116,204373.83,19,New York,2025-11-09,PDF,Normal,Quote is within expected range
+Q00095,ABC Suppliers,Steel,924.48,429,396601.86,15,New York,2025-09-30,CSV,Normal,Quote is within expected range
+Q00012,Prime Industrial,Steel,946.69,284,268859.43,10,New York,2026-01-29,PDF,Normal,Quote is within expected range
+Q00397,ABC Suppliers,Concrete,129.57,981,127107.1,4,Michigan,2026-01-21,CSV,Normal,Quote is within expected range
+Q00534,Prime Industrial,Wood,52.57,533,28020.79,14,Quebec,2025-03-06,PDF,Normal,Quote is within expected range
+Q00044,BuildCo,Steel,1057.42,124,131120.2,14,New York,2025-08-23,CSV,Normal,Quote is within expected range
+Q00043,RapidSupply,Steel,1061.11,371,393671.06,11,New York,2025-04-15,Excel,Normal,Quote is within expected range
+Q00330,ABC Suppliers,Concrete,198.2,546,108216.91,3,Michigan,2025-05-11,PDF,Normal,Quote is within expected range
+Q00168,Maple Materials,Steel,1192.39,151,180050.56,14,Quebec,2025-08-01,Excel,Normal,Quote is within expected range
+Q00498,Prime Industrial,Wood,72.28,159,11492.83,11,Ontario,2026-02-20,CSV,Normal,Quote is within expected range
+Q00877,BudgetSource,Concrete,255.45,1249,319059.96,10,Michigan,2025-10-30,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00598,BuildCo,Aluminum,1431.73,333,476766.09,11,Michigan,2026-02-03,CSV,Normal,Quote is within expected range
+Q00757,BudgetSource,Steel,1752.62,204,357534.57,10,Ontario,2025-04-30,PDF,Anomaly,Unit price is much higher than expected
+Q00101,RapidSupply,Steel,941.16,332,312464.62,13,New York,2025-06-24,CSV,Normal,Quote is within expected range
+Q00427,BuildCo,Wood,60.61,828,50183.68,7,Quebec,2025-05-08,PDF,Normal,Quote is within expected range
+Q00179,Prime Industrial,Steel,857.81,583,500103.29,15,Ontario,2026-01-08,Excel,Normal,Quote is within expected range
+Q00445,Maple Materials,Wood,57.98,202,11712.29,5,Michigan,2025-04-22,PDF,Normal,Quote is within expected range
+Q00417,BudgetSource,Wood,86.79,131,11369.88,7,Quebec,2025-02-12,Excel,Normal,Quote is within expected range
+Q00871,BuildCo,Concrete,326.6,1059,345873.76,10,Ontario,2026-02-21,Excel,Anomaly,Unit price is much higher than expected
+Q00883,ABC Suppliers,Concrete,244.08,1274,310956.33,12,Quebec,2025-12-05,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00681,ABC Suppliers,Copper,8558.02,124,1061193.91,22,New York,2025-02-13,PDF,Normal,Quote is within expected range
+Q00178,XYZ Materials,Steel,1111.52,575,639125.21,12,Michigan,2025-08-18,CSV,Normal,Quote is within expected range
+Q00396,XYZ Materials,Concrete,170.72,827,141188.77,12,Quebec,2025-12-03,Excel,Normal,Quote is within expected range
+Q00912,Maple Materials,Wood,32.52,867,28193.43,13,Michigan,2026-01-31,Excel,Anomaly,Unit price is unusually low
+Q00794,Maple Materials,Steel,1313.35,61,80114.53,46,Ontario,2026-01-30,PDF,Anomaly,High price and slow delivery
+Q00961,ABC Suppliers,Aluminum,2899.12,265,768268.11,14,Michigan,2025-09-29,CSV,Anomaly,Unit price is much higher than expected
+Q00685,Maple Materials,Copper,7854.56,55,432000.53,8,Quebec,2025-11-07,PDF,Normal,Quote is within expected range
+Q00384,NorthSteel,Concrete,159.62,442,70552.21,9,Michigan,2025-03-16,PDF,Normal,Quote is within expected range
+Q00957,Prime Industrial,Aluminum,2290.0,321,735089.27,14,New York,2025-11-06,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00752,Maple Materials,Steel,1638.93,131,214700.37,46,Michigan,2025-04-23,CSV,Anomaly,High price and slow delivery
+Q00258,ABC Suppliers,Concrete,144.87,1421,205857.27,9,Quebec,2025-02-04,PDF,Normal,Quote is within expected range
+Q00539,XYZ Materials,Wood,86.17,988,85132.19,9,Ontario,2026-02-07,CSV,Normal,Quote is within expected range
+Q00336,Maple Materials,Concrete,180.4,1043,188157.93,7,Michigan,2025-04-28,PDF,Normal,Quote is within expected range
+Q00016,BudgetSource,Steel,790.18,162,128009.6,7,Ontario,2026-01-22,PDF,Normal,Quote is within expected range
+Q00325,BudgetSource,Concrete,129.53,1493,193384.56,4,Quebec,2026-01-26,PDF,Normal,Quote is within expected range
+Q00759,RapidSupply,Steel,862.17,107,92252.34,56,Ontario,2026-01-20,PDF,Anomaly,Delivery time is unusually long
+Q00223,XYZ Materials,Steel,1089.1,68,74058.87,7,Michigan,2025-09-18,CSV,Normal,Quote is within expected range
+Q00180,ABC Suppliers,Steel,1163.0,486,565216.3,12,Ontario,2025-09-03,CSV,Normal,Quote is within expected range
+Q00984,Maple Materials,Copper,8856.8,127,1124813.43,40,Michigan,2026-01-29,PDF,Anomaly,Delivery time is unusually long
+Q00023,Prime Industrial,Steel,949.79,130,123473.01,12,Ontario,2025-05-04,Excel,Normal,Quote is within expected range
+Q00357,BudgetSource,Concrete,162.5,1414,229771.94,10,New York,2025-05-12,CSV,Normal,Quote is within expected range
+Q00667,BuildCo,Aluminum,1715.65,111,190437.01,11,Quebec,2025-08-17,PDF,Normal,Quote is within expected range
+Q00862,XYZ Materials,Concrete,284.86,174,49565.56,57,Quebec,2025-04-16,Excel,Anomaly,High price and slow delivery
+Q00341,RapidSupply,Concrete,191.19,393,75136.22,11,New York,2025-05-02,CSV,Normal,Quote is within expected range
+Q00432,XYZ Materials,Wood,43.46,944,41026.97,8,Michigan,2025-04-22,CSV,Normal,Quote is within expected range
+Q00552,RapidSupply,Wood,80.59,866,69788.19,5,New York,2025-03-25,CSV,Normal,Quote is within expected range
+Q00834,XYZ Materials,Concrete,165.94,1398,231981.79,36,Ontario,2025-12-28,CSV,Anomaly,Delivery time is unusually long
+Q00204,XYZ Materials,Steel,1123.61,464,521353.75,11,New York,2025-10-22,CSV,Normal,Quote is within expected range
+Q00631,NorthSteel,Aluminum,1219.47,319,389012.51,7,New York,2025-03-08,PDF,Normal,Quote is within expected range
+Q00094,Prime Industrial,Steel,987.65,173,170864.12,14,Ontario,2025-12-23,CSV,Normal,Quote is within expected range
+Q00559,RapidSupply,Wood,95.13,210,19976.36,9,New York,2025-06-02,Excel,Normal,Quote is within expected range
+Q00069,BuildCo,Steel,1022.67,393,401908.88,8,Ontario,2025-05-26,Excel,Normal,Quote is within expected range
+Q00623,Maple Materials,Aluminum,2067.6,32,66163.27,8,Ontario,2025-09-25,PDF,Normal,Quote is within expected range
+Q00285,BudgetSource,Concrete,197.96,822,162724.92,7,Quebec,2025-04-21,Excel,Normal,Quote is within expected range
+Q00845,XYZ Materials,Concrete,266.1,1232,327834.86,12,New York,2025-06-18,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00435,ABC Suppliers,Wood,89.93,567,50989.5,10,Ontario,2025-03-22,CSV,Normal,Quote is within expected range
+Q00154,Maple Materials,Steel,982.51,440,432305.79,14,Michigan,2025-02-24,PDF,Normal,Quote is within expected range
+Q00076,BudgetSource,Steel,834.59,510,425643.17,8,Quebec,2026-01-16,CSV,Normal,Quote is within expected range
+Q00731,BuildCo,Copper,8946.06,131,1171934.21,10,Ontario,2025-04-21,CSV,Normal,Quote is within expected range
+Q00447,XYZ Materials,Wood,83.55,714,59653.14,8,Quebec,2025-10-11,Excel,Normal,Quote is within expected range
+Q00189,Maple Materials,Steel,876.66,369,323488.07,14,Ontario,2025-05-28,Excel,Normal,Quote is within expected range
+Q00272,RapidSupply,Concrete,161.94,681,110279.95,7,Quebec,2025-06-27,Excel,Normal,Quote is within expected range
+Q00237,BuildCo,Concrete,132.56,1067,141438.16,5,Quebec,2025-01-20,CSV,Normal,Quote is within expected range
+Q00488,BuildCo,Wood,61.61,802,49410.95,14,Quebec,2025-07-25,CSV,Normal,Quote is within expected range
+Q00118,NorthSteel,Steel,793.04,339,268841.58,12,Ontario,2025-04-29,CSV,Normal,Quote is within expected range
+Q00944,BudgetSource,Aluminum,3083.23,332,1023631.74,22,Michigan,2025-05-03,PDF,Anomaly,Unit price is much higher than expected
+Q00513,Prime Industrial,Wood,75.02,439,32931.9,7,Ontario,2025-09-12,PDF,Normal,Quote is within expected range
+Q00826,BudgetSource,Concrete,326.83,975,318660.41,49,New York,2025-08-23,PDF,Anomaly,High price and slow delivery
+Q00592,BuildCo,Aluminum,1546.25,366,565927.28,10,Ontario,2025-05-29,CSV,Normal,Quote is within expected range
+Q00127,BuildCo,Steel,940.55,557,523888.49,11,New York,2025-07-30,Excel,Normal,Quote is within expected range
+Q00117,XYZ Materials,Steel,894.61,511,457145.43,12,Quebec,2025-01-02,CSV,Normal,Quote is within expected range
+Q00474,ABC Suppliers,Wood,97.68,485,47372.67,8,New York,2025-01-01,Excel,Normal,Quote is within expected range
+Q00694,Prime Industrial,Copper,8940.29,133,1189058.75,24,Michigan,2025-10-10,Excel,Normal,Quote is within expected range
+Q00058,RapidSupply,Steel,1043.13,278,289990.57,8,New York,2026-02-25,PDF,Normal,Quote is within expected range
+Q00864,XYZ Materials,Concrete,59.44,739,43925.88,6,New York,2025-01-12,Excel,Anomaly,Unit price is unusually low
+Q00913,Prime Industrial,Wood,73.95,284,21001.09,31,New York,2025-12-13,Excel,Anomaly,Delivery time is unusually long
+Q00370,XYZ Materials,Concrete,166.73,1447,241262.31,8,New York,2025-10-06,Excel,Normal,Quote is within expected range
+Q00269,XYZ Materials,Concrete,170.28,251,42740.92,11,Quebec,2025-06-12,Excel,Normal,Quote is within expected range
+Q00047,NorthSteel,Steel,903.8,356,321751.82,6,Ontario,2025-12-08,Excel,Normal,Quote is within expected range
+Q00350,Prime Industrial,Concrete,186.64,533,99480.87,4,New York,2025-06-05,PDF,Normal,Quote is within expected range
+Q00196,RapidSupply,Steel,1102.59,211,232646.62,5,Ontario,2025-01-27,PDF,Normal,Quote is within expected range
+Q01000,NorthSteel,Copper,2108.31,186,392145.16,15,Michigan,2025-04-02,CSV,Anomaly,Unit price is unusually low
+Q00835,Maple Materials,Concrete,371.63,879,326662.32,8,Quebec,2025-07-13,Excel,Anomaly,Unit price is much higher than expected
+Q00737,XYZ Materials,Copper,8398.28,90,755844.81,16,Quebec,2025-06-25,PDF,Normal,Quote is within expected range
+Q00264,XYZ Materials,Concrete,174.03,232,40374.88,7,New York,2025-12-08,CSV,Normal,Quote is within expected range
+Q00444,ABC Suppliers,Wood,68.54,839,57508.4,6,Quebec,2025-08-14,CSV,Normal,Quote is within expected range
+Q00676,BuildCo,Copper,8102.39,193,1563762.03,14,Quebec,2025-07-05,Excel,Normal,Quote is within expected range
+Q00305,RapidSupply,Concrete,202.55,689,139558.45,4,Quebec,2025-05-29,PDF,Normal,Quote is within expected range
+Q00342,Prime Industrial,Concrete,192.14,224,43039.99,12,Michigan,2025-06-03,CSV,Normal,Quote is within expected range
+Q00967,XYZ Materials,Aluminum,1722.67,283,487515.65,34,New York,2026-01-12,PDF,Anomaly,Delivery time is unusually long
+Q00150,BuildCo,Steel,997.68,441,439978.38,8,Quebec,2025-02-10,Excel,Normal,Quote is within expected range
+Q00125,BudgetSource,Steel,902.72,496,447751.04,12,New York,2025-04-03,Excel,Normal,Quote is within expected range
+Q00787,BudgetSource,Steel,898.19,85,76346.37,32,Michigan,2025-01-01,Excel,Anomaly,Delivery time is unusually long
+Q00051,BuildCo,Steel,1032.09,502,518108.59,11,New York,2025-03-24,Excel,Normal,Quote is within expected range
+Q00354,RapidSupply,Concrete,191.38,947,181236.41,6,Quebec,2025-07-09,CSV,Normal,Quote is within expected range
+Q00928,XYZ Materials,Wood,22.06,763,16833.0,4,Michigan,2026-01-25,CSV,Anomaly,Unit price is unusually low
+Q00143,BuildCo,Steel,939.68,126,118400.1,9,Michigan,2025-12-02,PDF,Normal,Quote is within expected range
+Q00471,ABC Suppliers,Wood,71.61,677,48481.57,13,New York,2025-04-13,CSV,Normal,Quote is within expected range
+Q00400,BuildCo,Concrete,232.62,314,73041.79,4,New York,2025-01-13,CSV,Normal,Quote is within expected range
+Q00626,XYZ Materials,Aluminum,1402.55,307,430582.25,16,Quebec,2026-01-16,Excel,Normal,Quote is within expected range
+Q00321,ABC Suppliers,Concrete,193.76,583,112960.17,4,New York,2025-12-01,CSV,Normal,Quote is within expected range
+Q00020,NorthSteel,Steel,784.1,355,278355.12,13,Quebec,2025-09-17,PDF,Normal,Quote is within expected range
+Q00810,RapidSupply,Steel,470.2,445,209239.36,13,Ontario,2025-01-10,CSV,Anomaly,Unit price is unusually low
+Q00791,XYZ Materials,Steel,1180.41,129,152272.58,61,Michigan,2025-10-19,PDF,Anomaly,Delivery time is unusually long
+Q00809,NorthSteel,Steel,1672.87,58,97026.48,9,Ontario,2025-08-27,Excel,Anomaly,Unit price is much higher than expected
+Q00408,XYZ Materials,Concrete,183.17,503,92134.1,7,Quebec,2025-07-07,CSV,Normal,Quote is within expected range
+Q00538,XYZ Materials,Wood,69.42,680,47208.71,5,Michigan,2025-03-18,PDF,Normal,Quote is within expected range
+Q00621,BuildCo,Aluminum,1528.5,375,573185.78,10,Quebec,2025-09-15,Excel,Normal,Quote is within expected range
+Q00039,Prime Industrial,Steel,889.36,112,99607.82,5,Ontario,2025-10-24,Excel,Normal,Quote is within expected range
+Q00176,ABC Suppliers,Steel,977.27,293,286340.03,5,Quebec,2025-01-08,CSV,Normal,Quote is within expected range
+Q00246,RapidSupply,Concrete,174.82,1218,212934.6,5,Quebec,2025-01-23,CSV,Normal,Quote is within expected range
+Q00829,Maple Materials,Concrete,338.51,1000,338514.94,54,Ontario,2025-04-08,CSV,Anomaly,High price and slow delivery
+Q00668,BudgetSource,Aluminum,1663.24,269,447411.84,15,New York,2025-01-21,PDF,Normal,Quote is within expected range
+Q00755,BudgetSource,Steel,313.65,553,173450.04,7,New York,2025-12-25,Excel,Anomaly,Unit price is unusually low
+Q00859,BudgetSource,Concrete,68.63,719,49344.62,5,Quebec,2025-07-10,CSV,Anomaly,Unit price is unusually low
+Q00155,NorthSteel,Steel,892.17,455,405935.24,14,New York,2025-01-12,Excel,Normal,Quote is within expected range
+Q00288,ABC Suppliers,Concrete,191.25,691,132152.27,11,Quebec,2025-07-05,Excel,Normal,Quote is within expected range
+Q00603,BudgetSource,Aluminum,1537.3,271,416608.64,17,Michigan,2025-03-26,PDF,Normal,Quote is within expected range
+Q00570,BudgetSource,Aluminum,1324.97,368,487590.14,16,Quebec,2025-09-14,PDF,Normal,Quote is within expected range
+Q00744,BuildCo,Copper,8079.64,179,1446255.39,17,Quebec,2025-01-15,PDF,Normal,Quote is within expected range
+Q00018,ABC Suppliers,Steel,997.33,323,322139.15,10,Ontario,2025-12-16,Excel,Normal,Quote is within expected range
+Q00128,ABC Suppliers,Steel,856.86,308,263913.0,11,Michigan,2025-02-15,CSV,Normal,Quote is within expected range
+Q00323,XYZ Materials,Concrete,174.11,552,96106.99,5,New York,2025-07-08,Excel,Normal,Quote is within expected range
+Q00256,RapidSupply,Concrete,190.46,217,41329.81,9,Michigan,2025-05-21,Excel,Normal,Quote is within expected range
+Q00658,BuildCo,Aluminum,1697.99,239,405819.53,17,New York,2026-02-18,CSV,Normal,Quote is within expected range
+Q00965,RapidSupply,Aluminum,2812.65,20,56252.91,17,Michigan,2025-12-27,Excel,Anomaly,Unit price is much higher than expected
+Q00191,RapidSupply,Steel,1020.87,281,286864.29,13,Ontario,2026-01-26,CSV,Normal,Quote is within expected range
+Q00116,Prime Industrial,Steel,1066.6,210,223986.74,13,New York,2025-12-05,PDF,Normal,Quote is within expected range
+Q00617,XYZ Materials,Aluminum,1723.62,330,568793.76,19,Michigan,2025-12-03,Excel,Normal,Quote is within expected range
+Q00607,Maple Materials,Aluminum,1616.16,20,32323.17,16,Ontario,2025-10-13,Excel,Normal,Quote is within expected range
+Q00181,BudgetSource,Steel,881.02,201,177085.36,9,Ontario,2025-02-11,CSV,Normal,Quote is within expected range
+Q00302,BudgetSource,Concrete,138.34,1242,171823.97,7,Quebec,2025-05-07,CSV,Normal,Quote is within expected range
+Q00760,XYZ Materials,Steel,1754.6,306,536908.72,33,Michigan,2025-04-03,PDF,Anomaly,High price and slow delivery
+Q00713,Prime Industrial,Copper,7709.21,182,1403075.89,17,New York,2025-02-17,CSV,Normal,Quote is within expected range
+Q00724,Prime Industrial,Copper,9384.48,97,910294.93,22,New York,2025-08-30,Excel,Normal,Quote is within expected range
+Q00686,XYZ Materials,Copper,9377.62,43,403237.66,24,Ontario,2025-09-04,Excel,Normal,Quote is within expected range
+Q00980,NorthSteel,Copper,2380.57,187,445166.99,10,Quebec,2025-03-31,Excel,Anomaly,Unit price is unusually low
+Q00518,Maple Materials,Wood,61.96,766,47459.21,7,Ontario,2025-09-03,Excel,Normal,Quote is within expected range
+Q00985,ABC Suppliers,Copper,15478.21,85,1315647.77,60,New York,2025-11-28,Excel,Anomaly,High price and slow delivery
+Q00046,XYZ Materials,Steel,918.27,211,193754.18,13,Quebec,2025-07-09,CSV,Normal,Quote is within expected range
+Q00910,ABC Suppliers,Wood,128.72,462,59469.49,50,Ontario,2025-09-30,Excel,Anomaly,High price and slow delivery
+Q00158,ABC Suppliers,Steel,1017.63,142,144503.42,10,New York,2026-01-10,PDF,Normal,Quote is within expected range
+Q00852,RapidSupply,Concrete,140.74,782,110062.11,56,Ontario,2025-02-28,Excel,Anomaly,Delivery time is unusually long
+Q00172,XYZ Materials,Steel,912.7,71,64801.61,10,Quebec,2025-11-25,Excel,Normal,Quote is within expected range
+Q00017,Maple Materials,Steel,871.47,529,461009.51,13,Ontario,2025-07-17,CSV,Normal,Quote is within expected range
+Q00512,Maple Materials,Wood,78.53,425,33373.76,13,Ontario,2025-04-04,Excel,Normal,Quote is within expected range
+Q00049,Prime Industrial,Steel,999.98,320,319993.65,9,New York,2025-04-15,Excel,Normal,Quote is within expected range
+Q00972,BudgetSource,Aluminum,2561.09,374,957848.63,21,New York,2026-02-14,Excel,Anomaly,Unit price is much higher than expected
+Q00941,BudgetSource,Aluminum,3332.55,88,293264.13,19,Quebec,2025-10-25,PDF,Anomaly,Unit price is much higher than expected
+Q00516,RapidSupply,Wood,91.66,837,76715.28,10,New York,2026-02-07,PDF,Normal,Quote is within expected range
+Q00953,XYZ Materials,Aluminum,2299.14,47,108059.75,59,Michigan,2025-10-27,CSV,Anomaly,High price and slow delivery
+Q00481,BuildCo,Wood,77.97,268,20895.06,9,Ontario,2025-03-21,PDF,Normal,Quote is within expected range
+Q00284,BudgetSource,Concrete,147.7,284,41945.89,11,New York,2025-09-12,PDF,Normal,Quote is within expected range
+Q00719,NorthSteel,Copper,7744.7,81,627321.0,25,Michigan,2025-04-04,Excel,Normal,Quote is within expected range
+Q00878,Maple Materials,Concrete,327.71,1310,429294.74,43,Ontario,2025-06-24,PDF,Anomaly,High price and slow delivery
+Q00226,ABC Suppliers,Concrete,209.85,368,77226.02,5,New York,2026-01-28,Excel,Normal,Quote is within expected range
+Q00027,RapidSupply,Steel,1008.85,285,287523.36,5,Ontario,2025-10-29,Excel,Normal,Quote is within expected range
+Q00955,RapidSupply,Aluminum,3206.03,85,272512.51,8,New York,2025-04-14,CSV,Anomaly,Unit price is much higher than expected
+Q00438,BuildCo,Wood,61.55,412,25359.28,7,Ontario,2025-07-22,Excel,Normal,Quote is within expected range
+Q00952,Prime Industrial,Aluminum,550.21,231,127099.19,14,Ontario,2025-05-02,Excel,Anomaly,Unit price is unusually low
+Q00365,NorthSteel,Concrete,195.85,261,51115.75,9,New York,2025-05-17,CSV,Normal,Quote is within expected range
+Q00230,Prime Industrial,Concrete,210.48,1002,210901.99,7,New York,2025-12-14,Excel,Normal,Quote is within expected range
+Q00038,NorthSteel,Steel,738.12,548,404491.25,9,Michigan,2025-12-23,Excel,Normal,Quote is within expected range
+Q00966,ABC Suppliers,Aluminum,2288.15,369,844326.17,13,New York,2025-08-07,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00375,Maple Materials,Concrete,250.71,659,165216.2,10,New York,2025-01-16,Excel,Normal,Quote is within expected range
+Q00470,BudgetSource,Wood,60.47,435,26306.54,11,New York,2026-02-01,CSV,Normal,Quote is within expected range
+Q00968,XYZ Materials,Aluminum,2787.93,336,936744.84,12,Michigan,2025-07-07,CSV,Anomaly,Unit price is much higher than expected
+Q00851,ABC Suppliers,Concrete,305.32,621,189603.25,11,Quebec,2025-12-20,CSV,Anomaly,Unit price is much higher than expected
+Q00705,Prime Industrial,Copper,7154.67,27,193176.08,24,Ontario,2026-01-13,Excel,Normal,Quote is within expected range
+Q00842,ABC Suppliers,Concrete,195.81,430,84198.38,42,Ontario,2025-08-02,PDF,Anomaly,Delivery time is unusually long
+Q00195,Prime Industrial,Steel,980.25,399,391121.53,9,Michigan,2025-08-03,CSV,Normal,Quote is within expected range
+Q00855,RapidSupply,Concrete,256.68,1278,328031.76,8,Michigan,2026-02-06,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00865,NorthSteel,Concrete,300.26,1003,301162.99,5,New York,2025-09-30,CSV,Anomaly,Unit price is much higher than expected
+Q00504,Prime Industrial,Wood,86.23,100,8622.89,13,Ontario,2025-09-27,CSV,Normal,Quote is within expected range
+Q00970,Prime Industrial,Aluminum,2426.06,277,672018.49,32,New York,2025-06-30,CSV,Anomaly,High price and slow delivery
+Q00831,BudgetSource,Concrete,286.89,1125,322747.97,12,Michigan,2025-02-16,Excel,Anomaly,Unit price is much higher than expected
+Q00580,RapidSupply,Aluminum,1940.81,29,56283.48,11,Quebec,2025-03-26,CSV,Normal,Quote is within expected range
+Q00969,XYZ Materials,Aluminum,2335.38,314,733310.76,13,Quebec,2025-03-12,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00163,BudgetSource,Steel,1018.92,318,324017.18,15,New York,2025-12-11,Excel,Normal,Quote is within expected range
+Q00909,Maple Materials,Wood,81.89,491,40206.86,64,Ontario,2025-05-28,CSV,Anomaly,Delivery time is unusually long
+Q00153,NorthSteel,Steel,879.23,517,454560.11,8,Michigan,2025-12-20,CSV,Normal,Quote is within expected range
+Q00802,Prime Industrial,Steel,946.85,74,70066.98,41,New York,2025-06-26,Excel,Anomaly,Delivery time is unusually long
+Q00994,BuildCo,Copper,15932.84,87,1386157.21,46,Ontario,2025-03-15,PDF,Anomaly,High price and slow delivery
+Q00756,ABC Suppliers,Steel,828.35,338,279981.75,39,Ontario,2025-04-06,PDF,Anomaly,Delivery time is unusually long
+Q00112,Maple Materials,Steel,971.82,104,101068.92,14,Michigan,2025-02-07,Excel,Normal,Quote is within expected range
+Q00227,BuildCo,Concrete,205.63,439,90270.4,3,Quebec,2025-12-21,Excel,Normal,Quote is within expected range
+Q00689,XYZ Materials,Copper,8785.02,132,1159622.84,9,Michigan,2025-03-10,CSV,Normal,Quote is within expected range
+Q00104,Prime Industrial,Steel,938.36,427,400677.97,13,New York,2025-12-06,Excel,Normal,Quote is within expected range
+Q00422,BudgetSource,Wood,91.38,314,28692.58,13,Ontario,2026-02-02,PDF,Normal,Quote is within expected range
+Q00420,ABC Suppliers,Wood,76.92,535,41150.63,14,Michigan,2025-10-07,PDF,Normal,Quote is within expected range
+Q00751,RapidSupply,Steel,1424.94,497,708195.57,52,Quebec,2025-07-30,Excel,Anomaly,High price and slow delivery
+Q00587,XYZ Materials,Aluminum,1611.95,122,196658.18,13,Michigan,2025-04-12,Excel,Normal,Quote is within expected range
+Q00781,XYZ Materials,Steel,1390.49,594,825952.51,46,Ontario,2026-01-07,PDF,Anomaly,High price and slow delivery
+Q00673,NorthSteel,Aluminum,1452.04,227,329614.19,18,Michigan,2025-04-25,Excel,Normal,Quote is within expected range
+Q00120,Prime Industrial,Steel,989.73,123,121736.35,9,Quebec,2025-05-17,PDF,Normal,Quote is within expected range
+Q00054,RapidSupply,Steel,1163.1,155,180281.22,13,Quebec,2025-12-16,PDF,Normal,Quote is within expected range
+Q00152,ABC Suppliers,Steel,973.88,211,205488.2,10,Michigan,2025-05-28,Excel,Normal,Quote is within expected range
+Q00404,XYZ Materials,Concrete,166.6,1156,192594.8,5,Quebec,2026-01-15,PDF,Normal,Quote is within expected range
+Q00946,RapidSupply,Aluminum,510.57,357,182273.72,13,Quebec,2025-08-26,Excel,Anomaly,Unit price is unusually low
+Q00208,XYZ Materials,Steel,1074.11,248,266379.63,10,Ontario,2025-09-29,Excel,Normal,Quote is within expected range
+Q00659,Prime Industrial,Aluminum,1601.97,348,557487.23,18,Quebec,2025-12-31,Excel,Normal,Quote is within expected range
+Q00844,Maple Materials,Concrete,303.17,1227,371987.03,5,Ontario,2026-01-24,CSV,Anomaly,Unit price is much higher than expected
+Q00763,ABC Suppliers,Steel,323.1,355,114700.97,5,Ontario,2025-05-10,CSV,Anomaly,Unit price is unusually low
+Q00009,XYZ Materials,Steel,912.79,423,386109.34,10,Michigan,2025-05-23,CSV,Normal,Quote is within expected range
+Q00808,ABC Suppliers,Steel,424.93,340,144476.97,14,New York,2025-03-29,PDF,Anomaly,Unit price is unusually low
+Q00037,BuildCo,Steel,1042.81,321,334741.65,12,Michigan,2025-01-02,CSV,Normal,Quote is within expected range
+Q00453,ABC Suppliers,Wood,61.28,743,45533.34,10,Michigan,2025-09-17,CSV,Normal,Quote is within expected range
+Q00652,NorthSteel,Aluminum,1557.96,391,609163.6,20,Quebec,2026-01-19,Excel,Normal,Quote is within expected range
+Q00254,NorthSteel,Concrete,196.57,771,151557.2,7,New York,2025-02-22,PDF,Normal,Quote is within expected range
+Q00304,NorthSteel,Concrete,180.96,1485,268723.37,9,New York,2025-03-04,Excel,Normal,Quote is within expected range
+Q00747,NorthSteel,Copper,8665.8,68,589274.17,21,New York,2025-09-04,Excel,Normal,Quote is within expected range
+Q00572,BuildCo,Aluminum,2113.23,61,128906.89,12,New York,2026-01-02,PDF,Normal,Quote is within expected range
+Q00624,ABC Suppliers,Aluminum,1799.9,166,298782.75,11,Quebec,2025-05-17,PDF,Normal,Quote is within expected range
+Q00733,RapidSupply,Copper,10030.93,99,993062.45,13,Ontario,2025-07-30,PDF,Normal,Quote is within expected range
+Q00892,Maple Materials,Wood,103.5,959,99257.82,9,Quebec,2025-08-21,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00263,BudgetSource,Concrete,86.24,251,21645.14,10,Quebec,2025-03-04,PDF,Normal,Quote is within expected range
+Q00611,RapidSupply,Aluminum,1820.62,272,495207.66,20,Ontario,2025-01-24,PDF,Normal,Quote is within expected range
+Q00298,Prime Industrial,Concrete,186.75,957,178721.08,6,Ontario,2025-08-14,CSV,Normal,Quote is within expected range
+Q00415,ABC Suppliers,Wood,79.71,239,19051.8,10,New York,2025-01-05,CSV,Normal,Quote is within expected range
+Q00151,BudgetSource,Steel,839.24,310,260164.79,15,Quebec,2025-04-29,CSV,Normal,Quote is within expected range
+Q00789,NorthSteel,Steel,960.98,521,500671.04,40,Quebec,2025-02-18,PDF,Anomaly,Delivery time is unusually long
+Q00641,XYZ Materials,Aluminum,1655.64,129,213577.28,20,Quebec,2025-12-10,Excel,Normal,Quote is within expected range
+Q00890,ABC Suppliers,Wood,145.12,773,112180.76,34,Quebec,2026-01-05,CSV,Anomaly,High price and slow delivery
+Q00551,ABC Suppliers,Wood,73.8,708,52252.88,11,Quebec,2025-07-10,CSV,Normal,Quote is within expected range
+Q00887,XYZ Materials,Concrete,261.02,1326,346106.46,9,New York,2025-01-16,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00489,XYZ Materials,Wood,107.39,122,13102.09,7,New York,2026-02-21,PDF,Normal,Quote is within expected range
+Q00148,NorthSteel,Steel,775.15,107,82941.19,10,Ontario,2025-01-24,CSV,Normal,Quote is within expected range
+Q00147,XYZ Materials,Steel,861.73,152,130983.02,16,Michigan,2025-02-20,Excel,Normal,Quote is within expected range
+Q00721,RapidSupply,Copper,10085.03,127,1280798.57,23,Michigan,2025-12-18,PDF,Normal,Quote is within expected range
+Q00932,BudgetSource,Wood,79.07,157,12414.57,33,Ontario,2025-01-19,CSV,Anomaly,Delivery time is unusually long
+Q00740,NorthSteel,Copper,8160.85,111,905854.46,9,Ontario,2025-04-18,PDF,Normal,Quote is within expected range
+Q00660,BuildCo,Aluminum,1774.26,248,440017.29,16,New York,2025-09-03,CSV,Normal,Quote is within expected range
+Q00349,XYZ Materials,Concrete,152.06,1475,224286.47,10,Quebec,2026-02-16,Excel,Normal,Quote is within expected range
+Q00464,BuildCo,Wood,80.5,891,71729.95,13,New York,2025-03-22,CSV,Normal,Quote is within expected range
+Q00326,BudgetSource,Concrete,136.23,329,44820.67,11,New York,2025-02-09,Excel,Normal,Quote is within expected range
+Q00187,XYZ Materials,Steel,1004.42,431,432904.32,13,Michigan,2025-02-19,Excel,Normal,Quote is within expected range
+Q00124,ABC Suppliers,Steel,889.41,229,203674.8,15,New York,2025-10-23,PDF,Normal,Quote is within expected range
+Q00854,ABC Suppliers,Concrete,339.34,1384,469649.74,47,Quebec,2025-09-04,PDF,Anomaly,High price and slow delivery
+Q00609,RapidSupply,Aluminum,1416.55,206,291810.26,10,Michigan,2026-01-02,Excel,Normal,Quote is within expected range
+Q00144,RapidSupply,Steel,1152.63,386,444914.49,13,Michigan,2025-11-29,PDF,Normal,Quote is within expected range
+Q00959,ABC Suppliers,Aluminum,1789.57,146,261276.86,58,Michigan,2026-01-12,PDF,Anomaly,Delivery time is unusually long
+Q00198,Maple Materials,Steel,1036.39,166,172040.88,6,New York,2025-04-21,Excel,Normal,Quote is within expected range
+Q00610,XYZ Materials,Aluminum,1818.71,201,365560.51,16,Quebec,2025-01-02,CSV,Normal,Quote is within expected range
+Q00280,RapidSupply,Concrete,182.74,1154,210881.7,8,Michigan,2025-03-08,CSV,Normal,Quote is within expected range
+Q00294,BudgetSource,Concrete,188.82,854,161253.66,4,New York,2025-09-01,PDF,Normal,Quote is within expected range
+Q00401,XYZ Materials,Concrete,137.03,802,109899.1,6,Quebec,2025-06-28,CSV,Normal,Quote is within expected range
+Q00123,RapidSupply,Steel,1263.53,284,358842.51,14,New York,2025-01-14,PDF,Normal,Quote is within expected range
+Q00184,Prime Industrial,Steel,988.32,473,467474.6,12,Michigan,2025-08-20,PDF,Normal,Quote is within expected range
+Q00203,RapidSupply,Steel,1217.37,93,113215.18,12,Ontario,2025-07-23,Excel,Normal,Quote is within expected range
+Q00439,Maple Materials,Wood,53.4,101,5393.51,5,Ontario,2025-12-27,PDF,Normal,Quote is within expected range
+Q00247,BudgetSource,Concrete,160.85,376,60477.9,10,Michigan,2025-11-20,PDF,Normal,Quote is within expected range
+Q00416,BudgetSource,Wood,60.76,525,31897.84,11,Michigan,2025-12-17,CSV,Normal,Quote is within expected range
+Q00933,Maple Materials,Wood,118.2,867,102481.74,12,Ontario,2025-04-19,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00766,BudgetSource,Steel,356.23,304,108294.17,15,Quebec,2025-07-10,PDF,Anomaly,Unit price is unusually low
+Q00907,NorthSteel,Wood,122.68,575,70541.25,45,Ontario,2025-01-27,PDF,Anomaly,High price and slow delivery
+Q00836,BuildCo,Concrete,276.27,205,56635.5,53,Quebec,2025-03-16,PDF,Anomaly,High price and slow delivery
+Q00888,Maple Materials,Wood,27.65,316,8738.61,7,Michigan,2025-08-11,Excel,Anomaly,Unit price is unusually low
+Q00130,BudgetSource,Steel,814.45,258,210127.6,7,Michigan,2026-01-25,PDF,Normal,Quote is within expected range
+Q00638,ABC Suppliers,Aluminum,1643.14,217,356560.8,16,New York,2025-07-15,PDF,Normal,Quote is within expected range
+Q00403,RapidSupply,Concrete,199.91,335,66970.39,8,Ontario,2025-06-03,PDF,Normal,Quote is within expected range
+Q00785,RapidSupply,Steel,872.75,490,427646.42,46,New York,2025-07-31,Excel,Anomaly,Delivery time is unusually long
+Q00771,BuildCo,Steel,1186.91,510,605326.34,47,Ontario,2025-09-29,PDF,Anomaly,Delivery time is unusually long
+Q00736,BuildCo,Copper,9460.5,166,1570443.48,9,New York,2025-08-04,Excel,Normal,Quote is within expected range
+Q00914,ABC Suppliers,Wood,110.56,776,85798.43,9,Ontario,2025-01-07,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00220,NorthSteel,Steel,930.05,203,188800.88,14,New York,2026-01-06,Excel,Normal,Quote is within expected range
+Q00642,XYZ Materials,Aluminum,1932.33,399,771001.58,9,Quebec,2025-10-03,Excel,Normal,Quote is within expected range
+Q00916,Prime Industrial,Wood,101.28,783,79301.26,14,Ontario,2025-12-29,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00753,NorthSteel,Steel,866.91,594,514943.95,57,New York,2025-11-29,Excel,Anomaly,Delivery time is unusually long
+Q00807,NorthSteel,Steel,1663.72,194,322761.89,15,Michigan,2025-11-15,Excel,Anomaly,Unit price is much higher than expected
+Q00920,NorthSteel,Wood,145.32,171,24850.4,36,New York,2025-04-02,CSV,Anomaly,High price and slow delivery
+Q00625,ABC Suppliers,Aluminum,1931.36,36,69528.94,21,New York,2025-04-15,Excel,Normal,Quote is within expected range
+Q00875,BudgetSource,Concrete,252.57,1190,300561.13,9,Quebec,2025-05-25,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00761,Prime Industrial,Steel,1528.88,303,463249.64,16,Michigan,2026-01-30,CSV,Anomaly,Unit price is much higher than expected
+Q00387,RapidSupply,Concrete,205.47,1001,205673.09,12,Michigan,2026-02-16,CSV,Normal,Quote is within expected range
+Q00973,XYZ Materials,Aluminum,2459.99,167,410817.85,15,Ontario,2025-07-20,PDF,Anomaly,Unit price is much higher than expected
+Q00510,RapidSupply,Wood,67.66,934,63192.67,8,Quebec,2025-12-07,Excel,Normal,Quote is within expected range
+Q00268,XYZ Materials,Concrete,154.62,1080,166986.36,9,New York,2025-07-23,Excel,Normal,Quote is within expected range
+Q00820,ABC Suppliers,Steel,1707.5,360,614699.12,56,New York,2025-07-31,CSV,Anomaly,High price and slow delivery
+Q00442,XYZ Materials,Wood,76.36,476,36347.18,6,Ontario,2025-02-22,CSV,Normal,Quote is within expected range
+Q00497,RapidSupply,Wood,70.68,284,20071.86,13,New York,2025-07-18,CSV,Normal,Quote is within expected range
+Q00113,NorthSteel,Steel,871.63,476,414896.07,14,Ontario,2025-05-08,PDF,Normal,Quote is within expected range
+Q00692,Maple Materials,Copper,9328.24,119,1110061.03,15,New York,2025-02-24,PDF,Normal,Quote is within expected range
+Q00233,XYZ Materials,Concrete,189.81,658,124895.55,11,New York,2025-02-12,PDF,Normal,Quote is within expected range
+Q00870,BudgetSource,Concrete,286.11,1165,333312.44,10,New York,2025-06-09,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00608,Prime Industrial,Aluminum,1435.29,47,67458.6,21,Michigan,2025-06-24,CSV,Normal,Quote is within expected range
+Q00672,Maple Materials,Aluminum,1294.23,354,458155.75,9,Michigan,2025-07-07,Excel,Normal,Quote is within expected range
+Q00374,ABC Suppliers,Concrete,206.65,255,52694.56,12,Ontario,2025-08-12,PDF,Normal,Quote is within expected range
+Q00982,BuildCo,Copper,8220.83,18,147974.93,53,Quebec,2025-10-15,Excel,Anomaly,Delivery time is unusually long
+Q00843,BudgetSource,Concrete,204.31,712,145471.47,54,New York,2025-01-19,PDF,Anomaly,Delivery time is unusually long
+Q00234,BuildCo,Concrete,175.92,1023,179966.64,3,Michigan,2025-02-16,PDF,Normal,Quote is within expected range
+Q00786,Prime Industrial,Steel,1013.03,310,314038.65,59,Michigan,2026-01-28,Excel,Anomaly,Delivery time is unusually long
+Q00677,Maple Materials,Copper,7690.84,133,1022881.56,22,New York,2026-01-04,PDF,Normal,Quote is within expected range
+Q00318,BuildCo,Concrete,188.3,771,145176.37,4,Michigan,2025-08-07,Excel,Normal,Quote is within expected range
+Q00649,BudgetSource,Aluminum,1471.94,89,131002.8,16,Quebec,2025-10-01,PDF,Normal,Quote is within expected range
+Q00411,XYZ Materials,Concrete,198.15,588,116511.74,5,Quebec,2025-06-10,PDF,Normal,Quote is within expected range
+Q00899,BuildCo,Wood,83.4,867,72305.07,47,Ontario,2025-12-22,Excel,Anomaly,Delivery time is unusually long
+Q00710,RapidSupply,Copper,10957.62,160,1753219.6,22,Michigan,2025-12-15,CSV,Normal,Quote is within expected range
+Q00359,ABC Suppliers,Concrete,184.34,199,36682.96,9,Ontario,2025-02-08,Excel,Normal,Quote is within expected range
+Q00259,ABC Suppliers,Concrete,187.86,859,161375.07,4,Quebec,2025-12-14,CSV,Normal,Quote is within expected range
+Q00745,BudgetSource,Copper,8069.99,150,1210497.98,24,Michigan,2025-10-04,CSV,Normal,Quote is within expected range
+Q00628,ABC Suppliers,Aluminum,1596.71,246,392790.81,18,New York,2025-04-14,Excel,Normal,Quote is within expected range
+Q00633,ABC Suppliers,Aluminum,1563.84,301,470715.17,17,New York,2025-09-09,Excel,Normal,Quote is within expected range
+Q00283,RapidSupply,Concrete,255.81,1120,286504.47,10,New York,2025-04-08,PDF,Normal,Quote is within expected range
+Q00377,Maple Materials,Concrete,208.17,704,146552.15,4,Ontario,2026-01-31,Excel,Normal,Quote is within expected range
+Q00385,NorthSteel,Concrete,148.33,839,124450.99,6,Michigan,2026-02-05,PDF,Normal,Quote is within expected range
+Q00225,BuildCo,Steel,949.3,569,540150.02,16,Ontario,2025-06-01,PDF,Normal,Quote is within expected range
+Q00954,BudgetSource,Aluminum,2851.03,89,253741.52,50,Quebec,2025-07-18,CSV,Anomaly,High price and slow delivery
+Q00815,ABC Suppliers,Steel,1656.95,399,661123.49,32,New York,2025-04-26,PDF,Anomaly,High price and slow delivery
+Q00473,Prime Industrial,Wood,50.17,124,6220.83,9,Quebec,2025-01-04,CSV,Normal,Quote is within expected range
+Q00348,Prime Industrial,Concrete,139.06,1479,205665.08,3,Ontario,2025-05-18,CSV,Normal,Quote is within expected range
+Q00506,ABC Suppliers,Wood,63.44,821,52086.83,5,Ontario,2025-03-17,Excel,Normal,Quote is within expected range
+Q00640,Prime Industrial,Aluminum,1459.37,69,100696.53,7,New York,2025-09-21,PDF,Normal,Quote is within expected range
+Q00988,RapidSupply,Copper,10568.63,183,1934059.63,15,Ontario,2025-11-08,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00929,Maple Materials,Wood,146.59,499,73146.92,9,Quebec,2025-06-03,Excel,Anomaly,Unit price is much higher than expected
+Q00906,BuildCo,Wood,87.51,962,84183.5,34,Quebec,2025-10-23,Excel,Anomaly,Delivery time is unusually long
+Q00620,RapidSupply,Aluminum,1738.67,339,589410.31,18,Quebec,2025-04-13,PDF,Normal,Quote is within expected range
+Q00856,ABC Suppliers,Concrete,161.82,779,126059.0,35,Quebec,2025-10-23,Excel,Anomaly,Delivery time is unusually long
+Q00804,Prime Industrial,Steel,1939.58,137,265722.74,8,New York,2025-03-21,Excel,Anomaly,Unit price is much higher than expected
+Q00646,ABC Suppliers,Aluminum,1563.08,293,457981.21,9,Michigan,2025-12-11,PDF,Normal,Quote is within expected range
+Q00847,NorthSteel,Concrete,287.64,1419,408163.65,8,Michigan,2025-11-08,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00557,NorthSteel,Wood,65.53,570,37354.39,11,Michigan,2025-07-12,CSV,Normal,Quote is within expected range
+Q00958,XYZ Materials,Aluminum,2455.67,360,884042.27,15,Michigan,2025-09-25,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00578,NorthSteel,Aluminum,1630.73,172,280485.18,21,Quebec,2025-02-03,PDF,Normal,Quote is within expected range
+Q00796,Prime Industrial,Steel,1711.62,452,773651.75,48,Quebec,2025-01-26,Excel,Anomaly,High price and slow delivery
+Q00086,BuildCo,Steel,972.02,316,307157.71,8,Michigan,2025-04-04,PDF,Normal,Quote is within expected range
+Q00243,RapidSupply,Concrete,215.39,1139,245334.35,11,Ontario,2025-09-27,Excel,Normal,Quote is within expected range
+Q00699,Maple Materials,Copper,8973.14,66,592227.32,8,Ontario,2025-02-02,CSV,Normal,Quote is within expected range
+Q00160,BuildCo,Steel,1158.27,396,458675.05,12,New York,2025-09-04,CSV,Normal,Quote is within expected range
+Q00525,NorthSteel,Wood,61.47,126,7745.85,14,Michigan,2025-04-13,PDF,Normal,Quote is within expected range
+Q00036,BuildCo,Steel,976.68,268,261750.67,5,Michigan,2025-09-06,CSV,Normal,Quote is within expected range
+Q00541,ABC Suppliers,Wood,85.31,247,21070.9,14,Quebec,2025-05-22,CSV,Normal,Quote is within expected range
+Q00171,RapidSupply,Steel,1032.4,244,251905.06,12,Ontario,2025-07-23,CSV,Normal,Quote is within expected range
+Q00655,XYZ Materials,Aluminum,2284.13,148,338050.69,22,New York,2025-12-10,PDF,Normal,Quote is within expected range
+Q00891,XYZ Materials,Wood,141.46,980,138631.99,52,Quebec,2025-11-25,CSV,Anomaly,High price and slow delivery
+Q00858,BuildCo,Concrete,300.1,744,223271.15,4,Ontario,2026-02-05,CSV,Anomaly,Unit price is much higher than expected
+Q00848,BuildCo,Concrete,296.19,1394,412889.53,35,Michigan,2025-09-24,Excel,Anomaly,High price and slow delivery
+Q00945,XYZ Materials,Aluminum,2042.82,330,674129.88,10,New York,2025-06-28,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00734,BuildCo,Copper,7747.13,182,1409978.4,21,New York,2025-07-01,CSV,Normal,Quote is within expected range
+Q00096,RapidSupply,Steel,950.9,158,150242.46,10,Ontario,2025-08-04,CSV,Normal,Quote is within expected range
+Q00564,Prime Industrial,Aluminum,1598.33,133,212577.31,22,New York,2026-01-07,Excel,Normal,Quote is within expected range
+Q00241,ABC Suppliers,Concrete,151.85,696,105685.95,12,Quebec,2026-01-03,PDF,Normal,Quote is within expected range
+Q00743,NorthSteel,Copper,7282.84,82,597193.26,11,Quebec,2025-05-07,Excel,Normal,Quote is within expected range
+Q00575,Maple Materials,Aluminum,1876.87,22,41291.11,13,Michigan,2025-09-02,CSV,Normal,Quote is within expected range
+Q00691,XYZ Materials,Copper,8495.66,62,526731.1,17,Ontario,2025-07-12,Excel,Normal,Quote is within expected range
+Q00461,NorthSteel,Wood,97.08,867,84168.62,8,Quebec,2025-07-10,PDF,Normal,Quote is within expected range
+Q00554,Prime Industrial,Wood,82.4,375,30901.79,12,Quebec,2025-12-13,PDF,Normal,Quote is within expected range
+Q00889,Maple Materials,Wood,21.27,395,8400.74,5,New York,2025-08-02,PDF,Anomaly,Unit price is unusually low
+Q00207,Maple Materials,Steel,1024.12,397,406574.92,7,Ontario,2025-07-22,CSV,Normal,Quote is within expected range
+Q00393,BudgetSource,Concrete,136.15,595,81006.81,5,Quebec,2025-11-21,CSV,Normal,Quote is within expected range
+Q00795,ABC Suppliers,Steel,1053.43,203,213847.22,63,New York,2025-10-04,Excel,Anomaly,Delivery time is unusually long
+Q00398,NorthSteel,Concrete,196.43,1162,228252.65,12,Quebec,2025-09-19,Excel,Normal,Quote is within expected range
+Q00767,RapidSupply,Steel,1187.81,477,566587.48,8,Ontario,2025-01-31,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00849,Prime Industrial,Concrete,327.94,342,112156.69,4,New York,2025-04-10,PDF,Anomaly,Unit price is much higher than expected
+Q00218,BuildCo,Steel,1048.98,446,467847.28,10,New York,2025-07-10,CSV,Normal,Quote is within expected range
+Q00005,Prime Industrial,Steel,912.55,439,400611.12,10,New York,2025-02-22,PDF,Normal,Quote is within expected range
+Q00769,BuildCo,Steel,1346.24,525,706775.45,12,New York,2025-01-21,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00643,BuildCo,Aluminum,1713.2,189,323795.06,9,Ontario,2025-08-24,Excel,Normal,Quote is within expected range
+Q00930,BudgetSource,Wood,21.37,852,18210.59,7,Ontario,2025-11-20,CSV,Anomaly,Unit price is unusually low
+Q00613,Prime Industrial,Aluminum,1562.13,386,602981.34,20,Michigan,2026-02-05,PDF,Normal,Quote is within expected range
+Q00739,BudgetSource,Copper,8383.76,15,125756.42,14,Michigan,2025-03-27,PDF,Normal,Quote is within expected range
+Q00547,BudgetSource,Wood,76.1,627,47712.22,5,New York,2026-02-25,PDF,Normal,Quote is within expected range
+Q00726,NorthSteel,Copper,8049.15,43,346113.44,14,Michigan,2025-04-03,Excel,Normal,Quote is within expected range
+Q00684,XYZ Materials,Copper,8745.56,43,376059.2,13,Quebec,2025-07-13,CSV,Normal,Quote is within expected range
+Q00099,XYZ Materials,Steel,995.39,525,522579.89,15,New York,2025-08-19,PDF,Normal,Quote is within expected range
+Q00805,BuildCo,Steel,1109.37,163,180827.65,59,New York,2025-01-08,CSV,Anomaly,Delivery time is unusually long
+Q00728,Prime Industrial,Copper,8181.28,48,392701.43,7,Quebec,2026-02-14,Excel,Normal,Quote is within expected range
+Q00574,BuildCo,Aluminum,1709.29,86,146999.35,20,Michigan,2026-02-07,PDF,Normal,Quote is within expected range
+Q00407,Maple Materials,Concrete,157.57,539,84928.31,4,Michigan,2025-01-03,Excel,Normal,Quote is within expected range
+Q00503,BudgetSource,Wood,49.24,138,6794.6,7,New York,2025-03-31,CSV,Normal,Quote is within expected range
+Q00048,BuildCo,Steel,1151.45,209,240653.62,14,New York,2025-03-01,PDF,Normal,Quote is within expected range
+Q00033,Prime Industrial,Steel,871.24,509,443461.17,7,Quebec,2025-04-08,Excel,Normal,Quote is within expected range
+Q00780,NorthSteel,Steel,2095.4,361,756438.91,13,Ontario,2026-01-11,PDF,Anomaly,Unit price is much higher than expected
+Q00840,ABC Suppliers,Concrete,219.52,1231,270231.77,5,Quebec,2025-10-08,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00201,NorthSteel,Steel,919.96,559,514255.67,7,New York,2025-03-03,PDF,Normal,Quote is within expected range
+Q00135,BuildCo,Steel,924.14,570,526758.75,7,Michigan,2025-04-08,Excel,Normal,Quote is within expected range
+Q00028,XYZ Materials,Steel,1027.96,82,84292.69,6,Ontario,2025-04-28,PDF,Normal,Quote is within expected range
+Q00881,BudgetSource,Concrete,265.36,1180,313120.82,12,Quebec,2025-06-07,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00231,Maple Materials,Concrete,156.02,1338,208757.33,7,Michigan,2025-03-24,PDF,Normal,Quote is within expected range
+Q00490,BudgetSource,Wood,75.63,225,17015.73,11,Quebec,2025-02-17,CSV,Normal,Quote is within expected range
+Q00773,ABC Suppliers,Steel,994.4,294,292353.19,35,New York,2026-02-02,Excel,Anomaly,Delivery time is unusually long
+Q00379,RapidSupply,Concrete,275.39,110,30292.89,10,New York,2025-02-24,PDF,Normal,Quote is within expected range
+Q00289,BudgetSource,Concrete,172.03,1351,232417.03,4,New York,2025-11-16,Excel,Normal,Quote is within expected range
+Q00419,BudgetSource,Wood,89.43,374,33447.33,9,Ontario,2025-10-21,PDF,Normal,Quote is within expected range
+Q00675,BuildCo,Aluminum,1318.62,349,460199.35,11,Quebec,2025-02-09,Excel,Normal,Quote is within expected range
+Q00392,Prime Industrial,Concrete,196.6,241,47379.57,9,Michigan,2026-02-13,CSV,Normal,Quote is within expected range
+Q00593,XYZ Materials,Aluminum,1622.1,359,582333.17,17,Ontario,2025-01-05,PDF,Normal,Quote is within expected range
+Q00499,RapidSupply,Wood,67.63,353,23872.95,8,Quebec,2025-03-23,PDF,Normal,Quote is within expected range
+Q00139,Maple Materials,Steel,1088.83,294,320115.58,8,Michigan,2025-06-14,PDF,Normal,Quote is within expected range
+Q00063,Maple Materials,Steel,906.34,251,227492.13,6,Ontario,2025-09-24,Excel,Normal,Quote is within expected range
+Q00472,Prime Industrial,Wood,42.52,605,25721.73,7,Michigan,2025-07-08,Excel,Normal,Quote is within expected range
+Q00648,XYZ Materials,Aluminum,1613.18,215,346832.65,7,New York,2026-01-27,CSV,Normal,Quote is within expected range
+Q00129,ABC Suppliers,Steel,997.94,242,241502.51,14,Michigan,2025-07-31,PDF,Normal,Quote is within expected range
+Q00977,RapidSupply,Copper,11300.44,185,2090581.53,16,Michigan,2025-10-31,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00521,XYZ Materials,Wood,54.99,594,32663.18,10,New York,2025-11-01,Excel,Normal,Quote is within expected range
+Q00839,Prime Industrial,Concrete,287.3,1074,308556.28,32,Quebec,2025-10-29,Excel,Anomaly,High price and slow delivery
+Q00963,Prime Industrial,Aluminum,1592.88,362,576622.59,41,Ontario,2025-01-09,CSV,Anomaly,Delivery time is unusually long
+Q00065,Maple Materials,Steel,1108.73,352,390274.05,8,New York,2025-07-26,Excel,Normal,Quote is within expected range
+Q00813,BudgetSource,Steel,1113.12,68,75692.19,53,Michigan,2026-01-17,PDF,Anomaly,Delivery time is unusually long
+Q00015,NorthSteel,Steel,783.37,420,329017.42,7,Michigan,2025-10-26,CSV,Normal,Quote is within expected range
+Q00157,NorthSteel,Steel,1095.4,90,98585.87,12,Quebec,2025-11-18,PDF,Normal,Quote is within expected range
+Q00041,XYZ Materials,Steel,1012.67,119,120507.76,8,Quebec,2025-02-05,Excel,Normal,Quote is within expected range
+Q00493,NorthSteel,Wood,78.63,135,10615.43,13,New York,2025-08-17,PDF,Normal,Quote is within expected range
+Q00380,RapidSupply,Concrete,181.95,278,50581.27,10,New York,2025-02-22,PDF,Normal,Quote is within expected range
+Q00188,ABC Suppliers,Steel,956.81,470,449702.2,15,New York,2025-12-10,PDF,Normal,Quote is within expected range
+Q00764,Prime Industrial,Steel,864.55,494,427089.73,31,Ontario,2025-05-01,Excel,Anomaly,Delivery time is unusually long
+Q00217,BuildCo,Steel,931.44,498,463854.73,13,Ontario,2025-05-07,Excel,Normal,Quote is within expected range
+Q00792,BuildCo,Steel,1154.2,526,607109.83,14,Michigan,2025-12-20,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00053,BuildCo,Steel,935.43,365,341430.61,5,Michigan,2025-03-07,PDF,Normal,Quote is within expected range
+Q00879,RapidSupply,Concrete,367.47,1471,540546.68,12,Quebec,2025-03-30,Excel,Anomaly,Unit price is much higher than expected
+Q00338,Prime Industrial,Concrete,153.87,1316,202495.43,12,Quebec,2025-02-04,PDF,Normal,Quote is within expected range
+Q00749,BuildCo,Copper,8383.17,146,1223942.35,22,New York,2025-05-27,CSV,Normal,Quote is within expected range
+Q00720,BuildCo,Copper,9055.43,132,1195316.3,8,Ontario,2025-09-27,CSV,Normal,Quote is within expected range
+Q00725,Maple Materials,Copper,8430.07,105,885157.13,19,Quebec,2025-08-03,Excel,Normal,Quote is within expected range
+Q00296,NorthSteel,Concrete,141.6,1295,183371.13,11,Quebec,2026-01-05,PDF,Normal,Quote is within expected range
+Q00702,NorthSteel,Copper,7993.61,140,1119105.27,14,Quebec,2025-01-18,Excel,Normal,Quote is within expected range
+Q00252,RapidSupply,Concrete,223.63,1118,250019.01,11,Quebec,2025-09-12,Excel,Normal,Quote is within expected range
+Q00727,XYZ Materials,Copper,8124.86,152,1234978.32,19,New York,2026-02-16,PDF,Normal,Quote is within expected range
+Q00462,XYZ Materials,Wood,77.88,378,29439.94,8,Ontario,2025-06-21,CSV,Normal,Quote is within expected range
+Q00456,RapidSupply,Wood,73.56,881,64804.37,14,Michigan,2025-10-28,Excel,Normal,Quote is within expected range
+Q00997,BuildCo,Copper,17287.56,135,2333820.99,16,Michigan,2025-05-29,Excel,Anomaly,Unit price is much higher than expected
+Q00816,Maple Materials,Steel,1835.71,206,378155.47,59,Quebec,2025-08-02,PDF,Anomaly,High price and slow delivery
+Q00863,XYZ Materials,Concrete,308.99,1317,406944.74,3,Ontario,2025-06-09,PDF,Anomaly,Unit price is much higher than expected
+Q00270,RapidSupply,Concrete,189.13,1410,266668.68,5,Quebec,2026-02-04,Excel,Normal,Quote is within expected range
+Q00202,BuildCo,Steel,1146.55,285,326765.53,15,Michigan,2025-09-30,Excel,Normal,Quote is within expected range
+Q00162,RapidSupply,Steel,1121.12,64,71751.64,6,Ontario,2026-02-09,CSV,Normal,Quote is within expected range
+Q00556,Prime Industrial,Wood,73.53,829,60953.45,14,New York,2025-11-08,CSV,Normal,Quote is within expected range
+Q00730,BudgetSource,Copper,6680.78,155,1035520.8,10,New York,2025-05-09,Excel,Normal,Quote is within expected range
+Q00402,BudgetSource,Concrete,157.32,997,156847.21,10,New York,2025-09-01,PDF,Normal,Quote is within expected range
+Q00703,BuildCo,Copper,7973.22,177,1411259.81,12,Ontario,2025-07-04,PDF,Normal,Quote is within expected range
+Q00477,Maple Materials,Wood,93.51,186,17393.48,12,New York,2025-08-23,Excel,Normal,Quote is within expected range
+Q00822,NorthSteel,Steel,1650.54,286,472054.04,16,Quebec,2025-11-02,PDF,Anomaly,Unit price is much higher than expected
+Q00772,RapidSupply,Steel,1700.68,568,965989.03,58,Michigan,2025-01-01,Excel,Anomaly,High price and slow delivery
+Q00106,NorthSteel,Steel,992.9,173,171771.6,10,New York,2025-05-09,PDF,Normal,Quote is within expected range
+Q00566,BudgetSource,Aluminum,1280.45,391,500656.57,12,Quebec,2026-01-15,CSV,Normal,Quote is within expected range
+Q00390,Prime Industrial,Concrete,172.86,904,156266.81,12,New York,2025-07-12,CSV,Normal,Quote is within expected range
+Q00002,XYZ Materials,Steel,995.28,82,81612.82,8,Ontario,2025-10-30,CSV,Normal,Quote is within expected range
+Q00938,Maple Materials,Aluminum,2471.27,367,906954.45,51,New York,2026-02-20,Excel,Anomaly,High price and slow delivery
+Q00983,BuildCo,Copper,10238.49,169,1730304.35,7,New York,2025-08-18,Excel,Anomaly,Large order has unexpectedly high unit price
+Q00562,Maple Materials,Wood,111.17,838,93158.63,11,New York,2025-12-15,PDF,Normal,Quote is within expected range
+Q00081,Maple Materials,Steel,981.0,70,68669.8,14,Michigan,2026-01-30,Excel,Normal,Quote is within expected range
+Q00206,BudgetSource,Steel,793.78,158,125417.46,14,New York,2025-02-15,CSV,Normal,Quote is within expected range
+Q00035,XYZ Materials,Steel,1128.28,65,73338.01,8,Ontario,2025-11-30,Excel,Normal,Quote is within expected range
+Q00776,BuildCo,Steel,260.95,547,142741.83,14,Ontario,2025-04-14,PDF,Anomaly,Unit price is unusually low
+Q00509,BudgetSource,Wood,68.61,675,46313.21,13,New York,2025-03-31,Excel,Normal,Quote is within expected range
+Q00428,Maple Materials,Wood,85.25,747,63678.52,10,Michigan,2025-03-14,Excel,Normal,Quote is within expected range
+Q00455,NorthSteel,Wood,63.49,623,39555.74,6,Ontario,2025-06-08,PDF,Normal,Quote is within expected range
+Q00367,ABC Suppliers,Concrete,183.99,872,160443.62,3,Ontario,2025-07-27,CSV,Normal,Quote is within expected range
+Q00092,XYZ Materials,Steel,1064.92,76,80933.69,14,Quebec,2025-06-09,PDF,Normal,Quote is within expected range
+Q00340,Prime Industrial,Concrete,162.49,692,112440.13,12,Ontario,2025-03-13,Excel,Normal,Quote is within expected range
+Q00898,BudgetSource,Wood,84.16,917,77173.61,49,New York,2025-08-04,CSV,Anomaly,Delivery time is unusually long
+Q00565,RapidSupply,Aluminum,1946.87,305,593795.95,10,New York,2025-03-29,Excel,Normal,Quote is within expected range
+Q00346,Maple Materials,Concrete,206.1,374,77080.56,7,Michigan,2025-10-13,Excel,Normal,Quote is within expected range
+Q00777,Maple Materials,Steel,1655.93,312,516649.87,14,Michigan,2025-09-27,Excel,Anomaly,Unit price is much higher than expected
+Q00242,RapidSupply,Concrete,207.52,483,100234.2,4,Quebec,2025-10-20,CSV,Normal,Quote is within expected range
+Q00014,Maple Materials,Steel,800.71,192,153736.4,13,Michigan,2025-03-15,CSV,Normal,Quote is within expected range
+Q00316,RapidSupply,Concrete,183.09,1427,261264.52,5,Quebec,2026-01-10,CSV,Normal,Quote is within expected range
+Q00601,RapidSupply,Aluminum,1887.64,392,739953.0,18,Ontario,2025-08-10,Excel,Normal,Quote is within expected range
+Q00388,BuildCo,Concrete,257.19,511,131425.87,5,New York,2025-06-14,Excel,Normal,Quote is within expected range
+Q00274,BuildCo,Concrete,180.62,1378,248889.05,12,Quebec,2025-03-29,Excel,Normal,Quote is within expected range
+Q00167,XYZ Materials,Steel,1050.26,188,197448.42,10,Ontario,2025-05-01,Excel,Normal,Quote is within expected range
+Q00841,ABC Suppliers,Concrete,237.49,1433,340320.01,4,New York,2025-01-19,PDF,Anomaly,Large order has unexpectedly high unit price
+Q00993,Maple Materials,Copper,14654.74,196,2872328.87,43,Michigan,2025-05-28,PDF,Anomaly,High price and slow delivery
+Q00647,ABC Suppliers,Aluminum,1126.83,74,83385.42,16,Ontario,2025-07-03,Excel,Normal,Quote is within expected range
+Q00819,BuildCo,Steel,1517.44,595,902878.44,7,New York,2025-02-04,Excel,Anomaly,Unit price is much higher than expected
+Q00485,Maple Materials,Wood,70.41,366,25770.96,6,Ontario,2025-12-13,CSV,Normal,Quote is within expected range
+Q00981,ABC Suppliers,Copper,8219.82,122,1002818.39,54,New York,2025-10-22,PDF,Anomaly,Delivery time is unusually long
+Q00505,Prime Industrial,Wood,65.65,281,18446.5,9,Quebec,2025-06-24,Excel,Normal,Quote is within expected range
+Q00832,BuildCo,Concrete,286.76,1023,293353.96,12,Michigan,2025-07-31,CSV,Anomaly,Unit price is much higher than expected
+Q00244,ABC Suppliers,Concrete,197.09,1401,276127.9,8,Michigan,2025-08-29,PDF,Normal,Quote is within expected range
+Q00567,RapidSupply,Aluminum,1408.42,134,188727.81,16,Ontario,2025-04-24,CSV,Normal,Quote is within expected range
+Q00876,XYZ Materials,Concrete,184.44,245,45188.42,65,New York,2025-10-12,Excel,Anomaly,Delivery time is unusually long
+Q00563,NorthSteel,Wood,91.37,497,45408.51,13,New York,2025-08-03,CSV,Normal,Quote is within expected range
+Q00687,ABC Suppliers,Copper,8228.01,104,855713.15,23,Michigan,2025-09-25,CSV,Normal,Quote is within expected range
+Q00190,Prime Industrial,Steel,857.26,279,239176.37,10,Quebec,2025-12-03,CSV,Normal,Quote is within expected range
+Q00783,RapidSupply,Steel,1504.28,487,732581.97,7,Michigan,2025-12-26,Excel,Anomaly,Unit price is much higher than expected
+Q00700,Maple Materials,Copper,8648.79,143,1236776.53,8,Michigan,2025-11-11,Excel,Normal,Quote is within expected range
+Q00476,BuildCo,Wood,80.47,337,27119.86,12,New York,2025-02-17,PDF,Normal,Quote is within expected range
+Q00682,BudgetSource,Copper,6124.48,163,998290.94,25,Quebec,2025-04-23,CSV,Normal,Quote is within expected range
+Q00511,NorthSteel,Wood,75.66,101,7641.58,13,Quebec,2025-04-01,Excel,Normal,Quote is within expected range
+Q00059,Maple Materials,Steel,1022.34,335,342482.42,13,New York,2025-05-23,PDF,Normal,Quote is within expected range
+Q00475,XYZ Materials,Wood,100.54,529,53184.86,4,Quebec,2025-09-29,PDF,Normal,Quote is within expected range
+Q00561,NorthSteel,Wood,68.2,883,60217.51,4,Quebec,2025-03-18,Excel,Normal,Quote is within expected range
+Q00857,BuildCo,Concrete,257.11,1209,310846.81,9,New York,2025-01-16,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00748,NorthSteel,Copper,7823.28,49,383340.78,7,New York,2025-07-31,CSV,Normal,Quote is within expected range
+Q00253,NorthSteel,Concrete,218.54,261,57039.11,5,Ontario,2026-01-08,CSV,Normal,Quote is within expected range
+Q00022,RapidSupply,Steel,1035.78,421,436061.73,9,Michigan,2025-01-10,PDF,Normal,Quote is within expected range
+Q00314,NorthSteel,Concrete,190.24,1030,195945.01,11,Ontario,2025-06-21,CSV,Normal,Quote is within expected range
+Q00460,ABC Suppliers,Wood,58.08,267,15507.07,9,Quebec,2025-12-26,PDF,Normal,Quote is within expected range
+Q00161,XYZ Materials,Steel,826.42,456,376846.98,13,Quebec,2026-01-22,PDF,Normal,Quote is within expected range
+Q00277,BudgetSource,Concrete,176.3,1089,191994.84,9,New York,2025-11-25,CSV,Normal,Quote is within expected range
+Q00956,NorthSteel,Aluminum,2324.35,254,590385.73,40,Quebec,2025-02-26,CSV,Anomaly,High price and slow delivery
+Q00192,ABC Suppliers,Steel,1013.66,329,333494.22,9,New York,2025-01-15,PDF,Normal,Quote is within expected range
+Q00386,BudgetSource,Concrete,167.3,377,63073.4,9,Quebec,2025-08-23,PDF,Normal,Quote is within expected range
+Q00806,BudgetSource,Steel,285.9,600,171541.69,13,Ontario,2025-06-19,PDF,Anomaly,Unit price is unusually low
+Q00414,BuildCo,Wood,104.0,291,30264.09,11,Michigan,2025-05-28,PDF,Normal,Quote is within expected range
+Q00492,ABC Suppliers,Wood,102.44,276,28274.12,6,Michigan,2025-12-16,CSV,Normal,Quote is within expected range
+Q00344,RapidSupply,Concrete,197.88,714,141289.36,11,Michigan,2025-07-29,PDF,Normal,Quote is within expected range
+Q00770,Prime Industrial,Steel,1439.43,381,548424.71,56,Quebec,2025-10-06,CSV,Anomaly,High price and slow delivery
+Q00309,XYZ Materials,Concrete,194.25,1067,207267.23,5,Michigan,2025-06-19,Excel,Normal,Quote is within expected range
+Q00662,BuildCo,Aluminum,1484.08,340,504588.82,9,Quebec,2025-05-15,Excel,Normal,Quote is within expected range
+Q00131,NorthSteel,Steel,817.29,174,142208.26,15,Michigan,2025-12-24,CSV,Normal,Quote is within expected range
+Q00664,ABC Suppliers,Aluminum,1585.32,261,413769.03,11,New York,2025-10-06,Excel,Normal,Quote is within expected range
+Q00872,BudgetSource,Concrete,173.81,1363,236905.8,54,Quebec,2025-04-25,PDF,Anomaly,Delivery time is unusually long
+Q00100,Maple Materials,Steel,943.21,382,360306.66,8,New York,2025-01-15,CSV,Normal,Quote is within expected range
+Q00373,Maple Materials,Concrete,216.09,260,56183.82,8,Quebec,2026-02-09,Excel,Normal,Quote is within expected range
+Q00088,NorthSteel,Steel,987.28,103,101689.71,10,Ontario,2025-08-29,PDF,Normal,Quote is within expected range
+Q00459,ABC Suppliers,Wood,69.02,773,53353.69,5,New York,2025-12-08,Excel,Normal,Quote is within expected range
+Q00331,Maple Materials,Concrete,198.01,1208,239197.05,4,New York,2025-12-25,PDF,Normal,Quote is within expected range
+Q00215,ABC Suppliers,Steel,905.42,242,219110.44,12,Michigan,2026-02-19,Excel,Normal,Quote is within expected range
+Q00467,ABC Suppliers,Wood,84.74,354,29997.47,9,Michigan,2025-04-25,CSV,Normal,Quote is within expected range
+Q00122,BudgetSource,Steel,801.0,90,72090.3,16,Michigan,2025-02-11,Excel,Normal,Quote is within expected range
+Q00615,BudgetSource,Aluminum,1914.24,44,84226.46,20,Ontario,2025-09-29,Excel,Normal,Quote is within expected range
+Q00021,Prime Industrial,Steel,1065.79,593,632011.21,14,Quebec,2025-07-11,PDF,Normal,Quote is within expected range
+Q00701,BuildCo,Copper,9102.48,61,555250.99,23,Michigan,2025-08-13,PDF,Normal,Quote is within expected range
+Q00072,BudgetSource,Steel,1024.86,55,56367.17,6,Michigan,2025-05-05,PDF,Normal,Quote is within expected range
+Q00107,XYZ Materials,Steel,1056.43,545,575755.24,14,Quebec,2025-04-09,PDF,Normal,Quote is within expected range
+Q00271,Maple Materials,Concrete,218.53,413,90254.8,5,Ontario,2025-03-05,Excel,Normal,Quote is within expected range
+Q00861,BudgetSource,Concrete,271.84,1283,348768.66,5,Quebec,2025-04-08,CSV,Anomaly,Large order has unexpectedly high unit price
+Q00436,Prime Industrial,Wood,80.27,262,21032.0,8,Quebec,2025-11-29,CSV,Normal,Quote is within expected range
+Q00103,BudgetSource,Steel,870.64,145,126242.26,11,Michigan,2025-08-18,PDF,Normal,Quote is within expected range
