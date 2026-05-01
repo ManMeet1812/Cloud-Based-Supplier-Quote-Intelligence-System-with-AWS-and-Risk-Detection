@@ -9,7 +9,7 @@ sns = boto3.client("sns")
 
 table = dynamodb.Table("SupplierQuotes")
 
-SNS_TOPIC_ARN = "arn:aws:sns:ca-central-1:126697142801:QuoteAlerts"
+SNS_TOPIC_ARN = "..."
 
 
 def predict_risk(material_name, unit_price, quantity, delivery_days, region):
