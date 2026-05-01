@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://7p9n4zgxv4.execute-api.ca-central-1.amazonaws.com";
+const API_BASE_URL = "...";
 
 document.getElementById("quoteForm").addEventListener("submit", async function (event) {
   event.preventDefault();
