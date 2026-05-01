@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Supplier Quote Intelligence System</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Supplier Quote Intelligence System</h1>
+    <p>Submit supplier quotes and view pricing risk analysis.</p>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>Submit Supplier Quote</h2>
+
+      <form id="quoteForm">
+        <label>Supplier Name</label>
+        <input type="text" id="supplierName" required />
+
+        <label>Material Name</label>
+        <select id="materialName" required>
+          <option value="">Select material</option>
+          <option value="Steel">Steel</option>
+          <option value="Concrete">Concrete</option>
+          <option value="Wood">Wood</option>
+          <option value="Aluminum">Aluminum</option>
+          <option value="Copper">Copper</option>
+        </select>
+
+        <label>Unit Price</label>
+        <input type="number" id="unitPrice" required />
+
+        <label>Quantity</label>
+        <input type="number" id="quantity" required />
+
+        <label>Delivery Days</label>
+        <input type="number" id="deliveryDays" required />
+
+        <label>Region</label>
+        <select id="region" required>
+          <option value="Ontario">Ontario</option>
+          <option value="Quebec">Quebec</option>
+          <option value="New York">New York</option>
+          <option value="Michigan">Michigan</option>
+        </select>
+
+        <label>File URL / S3 URI</label>
+        <input type="text" id="fileUrl" placeholder="s3://your-bucket/file.pdf" />
+
+        <button type="submit">Submit Quote</button>
+      </form>
+
+      <p id="submitMessage"></p>
+    </section>
+
+    <section class="card">
+      <div class="dashboard-header">
+        <h2>Quote Dashboard</h2>
+        <button onclick="loadQuotes()">Load Quotes</button>
+      </div>
+
+      <div class="summary">
+        <div>
+          <h3 id="totalQuotes">0</h3>
+          <p>Total Quotes</p>
+        </div>
+        <div>
+          <h3 id="normalQuotes">0</h3>
+          <p>Normal Quotes</p>
+        </div>
+        <div>
+          <h3 id="anomalyQuotes">0</h3>
+          <p>Anomaly Quotes</p>
+        </div>
+      </div>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Supplier</th>
+            <th>Material</th>
+            <th>Unit Price</th>
+            <th>Quantity</th>
+            <th>Total Price</th>
+            <th>Delivery</th>
+            <th>Risk</th>
+            <th>Reason</th>
+          </tr>
+        </thead>
+        <tbody id="quotesTableBody"></tbody>
+      </table>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
