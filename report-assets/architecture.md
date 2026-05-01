@@ -4,21 +4,22 @@
 flowchart TD
     A[Supplier / Admin User] --> B[S3 Static Website Frontend]
 
-    B -->|Submit quote form| C[API Gateway]
+    B -->|Submit quote| C[API Gateway]
     C -->|POST /submit-quote| D[SubmitQuoteFunction Lambda]
-    C -->|GET /quotes| E[GetQuotesFunction Lambda]
-
-    D -->|Calculate total price| D
-    D -->|Apply risk detection logic| D
+    D -->|Calculate total price and risk status| E[Risk Detection Logic]
+    E -->|Normal / Anomaly result| D
     D -->|Save quote record| F[DynamoDB SupplierQuotes Table]
 
-    E -->|Read quote records| F
-    F -->|Return quote data| E
-    E -->|Dashboard data| B
+    B -->|Load dashboard| C
+    C -->|GET /quotes| G[GetQuotesFunction Lambda]
+    G -->|Read quote records| F
+    F -->|Quote data| G
+    G -->|Dashboard response| B
 
-    G[S3 Quote File Bucket] -->|Stores quote files| G
-    B -->|File URL / S3 URI submitted| D
-    D -->|Stores fileUrl in quote record| F
+    H[S3 Quote File Bucket] -->|Stores supplier quote files| H
+    B -->|Sends fileUrl / S3 URI| D
+    D -->|Stores fileUrl| F
 
-    D -->|If riskStatus = Anomaly| H[SNS QuoteAlerts Topic]
-    H -->|Email notification| I[Admin Email Alert]
+    D -->|Anomaly detected| I[SNS QuoteAlerts Topic]
+    I -->|Email alert| J[Admin Email]
+```
